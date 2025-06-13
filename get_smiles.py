@@ -36,3 +36,4 @@ def get_all_smiles():
     # Save to CSV
     df = pd.DataFrame(results)
     df.to_csv("ligands_smiles.csv", index=False)
+

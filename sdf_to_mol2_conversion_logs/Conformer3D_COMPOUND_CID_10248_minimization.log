@@ -1,0 +1,3 @@
+Minimization log for Conformer3D_COMPOUND_CID_10248:
+Command used for conversion:
+obabel ligands_3D\Conformer3D_COMPOUND_CID_10248.sdf -O ligands_mol2_obabel\Conformer3D_COMPOUND_CID_10248.mol2 -h --minimize --ff MMFF94 --steps 2500 --log sdf_to_mol2_conversion_logs\Conformer3D_COMPOUND_CID_10248_minimization.log
