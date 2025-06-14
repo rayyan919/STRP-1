@@ -1,0 +1,1152 @@
+{
+  "10026486": {
+    "CID": 10026486,
+    "MolecularWeight": "444.5",
+    "XLogP": 4.4,
+    "TPSA": 84.5,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 11,
+    "Title": "Asperglaucide"
+  },
+  "10104370": {
+    "CID": 10104370,
+    "MolecularWeight": "204.35",
+    "XLogP": 5.2,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 4,
+    "Title": "Beta-Bisabolene"
+  },
+  "101286238": {
+    "CID": 101286238,
+    "MolecularWeight": "356.28",
+    "XLogP": -4.8,
+    "TPSA": 214,
+    "HBondDonorCount": 8,
+    "HBondAcceptorCount": 12,
+    "RotatableBondCount": 8,
+    "Title": "6-O-beta-D-Glucopyranuronosyl-D-galactose"
+  },
+  "10168": {
+    "CID": 10168,
+    "MolecularWeight": "284.22",
+    "XLogP": 2.2,
+    "TPSA": 112,
+    "HBondDonorCount": 3,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 1,
+    "Title": "Rhein"
+  },
+  "10207": {
+    "CID": 10207,
+    "MolecularWeight": "270.24",
+    "XLogP": 1.8,
+    "TPSA": 94.8,
+    "HBondDonorCount": 3,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 1,
+    "Title": "Aloe emodin"
+  },
+  "10208": {
+    "CID": 10208,
+    "MolecularWeight": "254.24",
+    "XLogP": 3.5,
+    "TPSA": 74.6,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 0,
+    "Title": "Chrysophanic acid"
+  },
+  "10225": {
+    "CID": 10225,
+    "MolecularWeight": "198.30",
+    "XLogP": 5.6,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "Cadalene"
+  },
+  "10248": {
+    "CID": 10248,
+    "MolecularWeight": "208.25",
+    "XLogP": 2.5,
+    "TPSA": 27.7,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 3,
+    "RotatableBondCount": 5,
+    "Title": "Elemicin"
+  },
+  "10364": {
+    "CID": 10364,
+    "MolecularWeight": "150.22",
+    "XLogP": 3.1,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Carvacrol"
+  },
+  "10466745": {
+    "CID": 10466745,
+    "MolecularWeight": "238.37",
+    "XLogP": 2.6,
+    "TPSA": 37.3,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 2,
+    "Title": "Oplopanone"
+  },
+  "10659": {
+    "CID": 10659,
+    "MolecularWeight": "222.24",
+    "XLogP": 2.7,
+    "TPSA": 36.9,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 4,
+    "Title": "Apiole (parsley)"
+  },
+  "108065": {
+    "CID": 108065,
+    "MolecularWeight": "592.5",
+    "XLogP": 2.7,
+    "TPSA": 210,
+    "HBondDonorCount": 9,
+    "HBondAcceptorCount": 12,
+    "RotatableBondCount": 4,
+    "Title": "Proanthocyanidin"
+  },
+  "10856614": {
+    "CID": 10856614,
+    "MolecularWeight": "204.35",
+    "XLogP": 5.2,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "alpha-Selinene"
+  },
+  "10910653": {
+    "CID": 10910653,
+    "MolecularWeight": "204.35",
+    "XLogP": 4,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Viridiflorene"
+  },
+  "10975": {
+    "CID": 10975,
+    "MolecularWeight": "154.25",
+    "XLogP": 3,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 5,
+    "Title": "Myrcenol"
+  },
+  "11276107": {
+    "CID": 11276107,
+    "MolecularWeight": "222.37",
+    "XLogP": 3.9,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Cubebol"
+  },
+  "11996452": {
+    "CID": 11996452,
+    "MolecularWeight": "222.37",
+    "XLogP": 3.7,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "Viridiflorol"
+  },
+  "12046149": {
+    "CID": 12046149,
+    "MolecularWeight": "222.37",
+    "XLogP": 3.7,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Epicubenol"
+  },
+  "121719": {
+    "CID": 121719,
+    "MolecularWeight": "150.22",
+    "XLogP": 2.2,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "Pinocarvone"
+  },
+  "12302243": {
+    "CID": 12302243,
+    "MolecularWeight": "200.32",
+    "XLogP": 4.4,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "alpha-Calacorene"
+  },
+  "12306047": {
+    "CID": 12306047,
+    "MolecularWeight": "204.35",
+    "XLogP": 4.1,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "Alpha-muurolene, (-)-"
+  },
+  "12308714": {
+    "CID": 12308714,
+    "MolecularWeight": "450.6",
+    "XLogP": 4.8,
+    "TPSA": 73.6,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 3,
+    "Title": "Azadiradione"
+  },
+  "12309055": {
+    "CID": 12309055,
+    "MolecularWeight": "576.8",
+    "XLogP": 7.7,
+    "TPSA": 99.4,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 9,
+    "Title": "beta-Sitosterol-beta-D-glucoside"
+  },
+  "124017": {
+    "CID": 124017,
+    "MolecularWeight": "578.5",
+    "XLogP": 2.4,
+    "TPSA": 221,
+    "HBondDonorCount": 10,
+    "HBondAcceptorCount": 12,
+    "RotatableBondCount": 3,
+    "Title": "Procyanidin B5"
+  },
+  "1252759": {
+    "CID": 1252759,
+    "MolecularWeight": "152.23",
+    "XLogP": 1.9,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 2,
+    "Title": "alpha-Campholenal"
+  },
+  "12921": {
+    "CID": 12921,
+    "MolecularWeight": "294.5",
+    "XLogP": 5.8,
+    "TPSA": 37.3,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 15,
+    "Title": "Sterculic acid"
+  },
+  "13894537": {
+    "CID": 13894537,
+    "MolecularWeight": "204.35",
+    "XLogP": 4.1,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "(1S,2E,6E,10R)-3,7,11,11-tetramethylbicyclo[8.1.0]undeca-2,6-diene"
+  },
+  "1549026": {
+    "CID": 1549026,
+    "MolecularWeight": "196.29",
+    "XLogP": 3.5,
+    "TPSA": 26.3,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 6,
+    "Title": "Geranyl acetate"
+  },
+  "1549095": {
+    "CID": 1549095,
+    "MolecularWeight": "180.20",
+    "XLogP": 1.4,
+    "TPSA": 49.7,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 3,
+    "RotatableBondCount": 3,
+    "Title": "Coniferyl Alcohol"
+  },
+  "15558323": {
+    "CID": 15558323,
+    "MolecularWeight": "250.29",
+    "XLogP": 3.3,
+    "TPSA": 66.8,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 4,
+    "Title": "1-[4,6-Dihydroxy-2-methoxy-3-(3-methylbut-2-enyl)phenyl]ethanone"
+  },
+  "159969": {
+    "CID": 159969,
+    "MolecularWeight": "554.7",
+    "XLogP": 8,
+    "TPSA": 145,
+    "HBondDonorCount": 5,
+    "HBondAcceptorCount": 8,
+    "RotatableBondCount": 11,
+    "Title": "Acrovestone"
+  },
+  "17100": {
+    "CID": 17100,
+    "MolecularWeight": "154.25",
+    "XLogP": 1.8,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Alpha-Terpineol"
+  },
+  "1742210": {
+    "CID": 1742210,
+    "MolecularWeight": "220.35",
+    "XLogP": 3.6,
+    "TPSA": 12.5,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "beta-CARYOPHYLLENE OXIDE"
+  },
+  "18950": {
+    "CID": 18950,
+    "MolecularWeight": "180.16",
+    "XLogP": -2.6,
+    "TPSA": 110,
+    "HBondDonorCount": 5,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 1,
+    "Title": "D-Mannose"
+  },
+  "222284": {
+    "CID": 222284,
+    "MolecularWeight": "414.7",
+    "XLogP": 9.3,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 6,
+    "Title": "Beta-Sitosterol"
+  },
+  "22311": {
+    "CID": 22311,
+    "MolecularWeight": "136.23",
+    "XLogP": 3.4,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "Limonene, (+-)-"
+  },
+  "2355": {
+    "CID": 2355,
+    "MolecularWeight": "216.19",
+    "XLogP": 2.3,
+    "TPSA": 48.7,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 1,
+    "Title": "Bergapten"
+  },
+  "26049": {
+    "CID": 26049,
+    "MolecularWeight": "136.23",
+    "XLogP": 2.8,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "3-Carene"
+  },
+  "261491": {
+    "CID": 261491,
+    "MolecularWeight": "152.23",
+    "XLogP": 2.3,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Thujone"
+  },
+  "2703": {
+    "CID": 2703,
+    "MolecularWeight": "348.4",
+    "XLogP": 4.6,
+    "TPSA": 40.8,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 2,
+    "Title": "Chelerythrine"
+  },
+  "323": {
+    "CID": 323,
+    "MolecularWeight": "146.14",
+    "XLogP": 1.4,
+    "TPSA": 26.3,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 0,
+    "Title": "Coumarin"
+  },
+  "370": {
+    "CID": 370,
+    "MolecularWeight": "170.12",
+    "XLogP": 0.7,
+    "TPSA": 98,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 1,
+    "Title": "Gallic Acid"
+  },
+  "40539": {
+    "CID": 40539,
+    "MolecularWeight": "189.13",
+    "XLogP": -3.9,
+    "TPSA": 122,
+    "HBondDonorCount": 3,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 3,
+    "Title": "Quisqualic Acid"
+  },
+  "42608158": {
+    "CID": 42608158,
+    "MolecularWeight": "204.35",
+    "XLogP": 4.7,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Allo-Aromadendrene"
+  },
+  "4276": {
+    "CID": 4276,
+    "MolecularWeight": "192.21",
+    "XLogP": 2.9,
+    "TPSA": 27.7,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 3,
+    "RotatableBondCount": 3,
+    "Title": "Myristicin"
+  },
+  "442009": {
+    "CID": 442009,
+    "MolecularWeight": "330.4",
+    "XLogP": 4.4,
+    "TPSA": 66.8,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 1,
+    "Title": "Carnosol"
+  },
+  "442343": {
+    "CID": 442343,
+    "MolecularWeight": "222.37",
+    "XLogP": 3.8,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 4,
+    "Title": "Levomenol"
+  },
+  "442402": {
+    "CID": 442402,
+    "MolecularWeight": "204.35",
+    "XLogP": 4.8,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Thujopsene"
+  },
+  "442495": {
+    "CID": 442495,
+    "MolecularWeight": "152.23",
+    "XLogP": 2.8,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "Pulegone"
+  },
+  "443639": {
+    "CID": 443639,
+    "MolecularWeight": "274.27",
+    "XLogP": 0.7,
+    "TPSA": 90.2,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 1,
+    "Title": "(-)-Epiafzelechin"
+  },
+  "444170": {
+    "CID": 444170,
+    "MolecularWeight": "663.4",
+    "XLogP": -5.9,
+    "TPSA": 327,
+    "HBondDonorCount": 8,
+    "HBondAcceptorCount": 19,
+    "RotatableBondCount": 11,
+    "Title": "Fenugreekine"
+  },
+  "445070": {
+    "CID": 445070,
+    "MolecularWeight": "222.37",
+    "XLogP": 4.8,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 7,
+    "Title": "trans,trans-Farnesol"
+  },
+  "445639": {
+    "CID": 445639,
+    "MolecularWeight": "282.5",
+    "XLogP": 6.5,
+    "TPSA": 37.3,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 15,
+    "Title": "Oleic Acid"
+  },
+  "5144": {
+    "CID": 5144,
+    "MolecularWeight": "162.18",
+    "XLogP": 3,
+    "TPSA": 18.5,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 2,
+    "Title": "Safrole"
+  },
+  "5280343": {
+    "CID": 5280343,
+    "MolecularWeight": "302.23",
+    "XLogP": 1.5,
+    "TPSA": 127,
+    "HBondDonorCount": 5,
+    "HBondAcceptorCount": 7,
+    "RotatableBondCount": 1,
+    "Title": "Quercetin"
+  },
+  "5280378": {
+    "CID": 5280378,
+    "MolecularWeight": "268.26",
+    "XLogP": 2.8,
+    "TPSA": 55.8,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 2,
+    "Title": "Formononetin"
+  },
+  "5280441": {
+    "CID": 5280441,
+    "MolecularWeight": "432.4",
+    "XLogP": 0.2,
+    "TPSA": 177,
+    "HBondDonorCount": 7,
+    "HBondAcceptorCount": 10,
+    "RotatableBondCount": 3,
+    "Title": "Vitexin"
+  },
+  "5280443": {
+    "CID": 5280443,
+    "MolecularWeight": "270.24",
+    "XLogP": 1.7,
+    "TPSA": 87,
+    "HBondDonorCount": 3,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 1,
+    "Title": "Apigenin"
+  },
+  "5280445": {
+    "CID": 5280445,
+    "MolecularWeight": "286.24",
+    "XLogP": 1.4,
+    "TPSA": 107,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 1,
+    "Title": "Luteolin"
+  },
+  "5280460": {
+    "CID": 5280460,
+    "MolecularWeight": "192.17",
+    "XLogP": 1.5,
+    "TPSA": 55.8,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 1,
+    "Title": "Scopoletin"
+  },
+  "5280794": {
+    "CID": 5280794,
+    "MolecularWeight": "412.7",
+    "XLogP": 8.6,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 5,
+    "Title": "Stigmasterol"
+  },
+  "5280804": {
+    "CID": 5280804,
+    "MolecularWeight": "464.4",
+    "XLogP": 0.4,
+    "TPSA": 207,
+    "HBondDonorCount": 8,
+    "HBondAcceptorCount": 12,
+    "RotatableBondCount": 4,
+    "Title": "Isoquercetin"
+  },
+  "5280805": {
+    "CID": 5280805,
+    "MolecularWeight": "610.5",
+    "XLogP": -1.3,
+    "TPSA": 266,
+    "HBondDonorCount": 10,
+    "HBondAcceptorCount": 16,
+    "RotatableBondCount": 6,
+    "Title": "Rutin"
+  },
+  "5280863": {
+    "CID": 5280863,
+    "MolecularWeight": "286.24",
+    "XLogP": 1.9,
+    "TPSA": 107,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 1,
+    "Title": "Kaempferol"
+  },
+  "5280961": {
+    "CID": 5280961,
+    "MolecularWeight": "270.24",
+    "XLogP": 2.7,
+    "TPSA": 87,
+    "HBondDonorCount": 3,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 1,
+    "Title": "Genistein"
+  },
+  "5281520": {
+    "CID": 5281520,
+    "MolecularWeight": "204.35",
+    "XLogP": 4.5,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Humulene"
+  },
+  "5281553": {
+    "CID": 5281553,
+    "MolecularWeight": "136.23",
+    "XLogP": 4.3,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 3,
+    "Title": "beta-OCIMENE, (3E)-"
+  },
+  "5281643": {
+    "CID": 5281643,
+    "MolecularWeight": "464.4",
+    "XLogP": 0.4,
+    "TPSA": 207,
+    "HBondDonorCount": 8,
+    "HBondAcceptorCount": 12,
+    "RotatableBondCount": 4,
+    "Title": "Hyperoside"
+  },
+  "5281672": {
+    "CID": 5281672,
+    "MolecularWeight": "318.23",
+    "XLogP": 1.2,
+    "TPSA": 148,
+    "HBondDonorCount": 6,
+    "HBondAcceptorCount": 8,
+    "RotatableBondCount": 1,
+    "Title": "Myricetin"
+  },
+  "5282102": {
+    "CID": 5282102,
+    "MolecularWeight": "448.4",
+    "XLogP": 0.7,
+    "TPSA": 186,
+    "HBondDonorCount": 7,
+    "HBondAcceptorCount": 11,
+    "RotatableBondCount": 4,
+    "Title": "Astragalin"
+  },
+  "5284421": {
+    "CID": 5284421,
+    "MolecularWeight": "294.5",
+    "XLogP": 6.9,
+    "TPSA": 26.3,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 15,
+    "Title": "Methyl linoleate"
+  },
+  "5311264": {
+    "CID": 5311264,
+    "MolecularWeight": "299.26",
+    "XLogP": -1.8,
+    "TPSA": 105,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 7,
+    "RotatableBondCount": 10,
+    "Title": "Lysophosphatidylcholines"
+  },
+  "5316673": {
+    "CID": 5316673,
+    "MolecularWeight": "432.4",
+    "XLogP": 1.2,
+    "TPSA": 166,
+    "HBondDonorCount": 6,
+    "HBondAcceptorCount": 10,
+    "RotatableBondCount": 3,
+    "Title": "Afzelin"
+  },
+  "5317319": {
+    "CID": 5317319,
+    "MolecularWeight": "204.35",
+    "XLogP": 6.2,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 7,
+    "Title": "beta-Farnesene, (6Z)-"
+  },
+  "5352470": {
+    "CID": 5352470,
+    "MolecularWeight": "220.35",
+    "XLogP": 3.9,
+    "TPSA": 12.5,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "Humulene epoxide"
+  },
+  "5460291": {
+    "CID": 5460291,
+    "MolecularWeight": "150.13",
+    "XLogP": -2.3,
+    "TPSA": 98,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 5,
+    "RotatableBondCount": 4,
+    "Title": "(2R,3S,4S)-2,3,4,5-tetrahydroxypentanal"
+  },
+  "5570": {
+    "CID": 5570,
+    "MolecularWeight": "137.14",
+    "XLogP": 1.2,
+    "TPSA": 44,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 0,
+    "Title": "Trigonelline"
+  },
+  "61166": {
+    "CID": 61166,
+    "MolecularWeight": "154.16",
+    "XLogP": 1.2,
+    "TPSA": 39.4,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 3,
+    "RotatableBondCount": 4,
+    "Title": "Furfuryl propionate"
+  },
+  "61290": {
+    "CID": 61290,
+    "MolecularWeight": "184.27",
+    "XLogP": 3.3,
+    "TPSA": 26.3,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 6,
+    "Title": "Methyl rhodinolate"
+  },
+  "6251": {
+    "CID": 6251,
+    "MolecularWeight": "182.17",
+    "XLogP": -3.1,
+    "TPSA": 121,
+    "HBondDonorCount": 6,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 5,
+    "Title": "Mannitol"
+  },
+  "636543": {
+    "CID": 636543,
+    "MolecularWeight": "509.5",
+    "XLogP": 2.3,
+    "TPSA": 138,
+    "HBondDonorCount": 5,
+    "HBondAcceptorCount": 8,
+    "RotatableBondCount": 12,
+    "Title": "Erythro-canabisine H"
+  },
+  "637542": {
+    "CID": 637542,
+    "MolecularWeight": "164.16",
+    "XLogP": 1.5,
+    "TPSA": 57.5,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 3,
+    "RotatableBondCount": 2,
+    "Title": "p-Coumaric acid"
+  },
+  "637566": {
+    "CID": 637566,
+    "MolecularWeight": "154.25",
+    "XLogP": 2.9,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 4,
+    "Title": "Geraniol"
+  },
+  "638011": {
+    "CID": 638011,
+    "MolecularWeight": "152.23",
+    "XLogP": 3,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 4,
+    "Title": "Citral"
+  },
+  "643820": {
+    "CID": 643820,
+    "MolecularWeight": "154.25",
+    "XLogP": 2.9,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 4,
+    "Title": "Nerol"
+  },
+  "6451618": {
+    "CID": 6451618,
+    "MolecularWeight": "136.23",
+    "XLogP": 2.8,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "CID 6451618"
+  },
+  "6452077": {
+    "CID": 6452077,
+    "MolecularWeight": "222.37",
+    "XLogP": 4.2,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Junenol"
+  },
+  "6549": {
+    "CID": 6549,
+    "MolecularWeight": "154.25",
+    "XLogP": 2.7,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 4,
+    "Title": "Linalool, (+-)-"
+  },
+  "6616": {
+    "CID": 6616,
+    "MolecularWeight": "136.23",
+    "XLogP": 3.3,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Camphene"
+  },
+  "6654": {
+    "CID": 6654,
+    "MolecularWeight": "136.23",
+    "XLogP": 2.8,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "alpha-PINENE"
+  },
+  "66948": {
+    "CID": 66948,
+    "MolecularWeight": "96.08",
+    "XLogP": 0.9,
+    "TPSA": 26.3,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 0,
+    "Title": "Protoanemonin"
+  },
+  "68316": {
+    "CID": 68316,
+    "MolecularWeight": "150.22",
+    "XLogP": 3.2,
+    "TPSA": 13.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 3,
+    "Title": "Perillene"
+  },
+  "6987": {
+    "CID": 6987,
+    "MolecularWeight": "152.23",
+    "XLogP": 2.2,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Piperitone"
+  },
+  "6989": {
+    "CID": 6989,
+    "MolecularWeight": "150.22",
+    "XLogP": 3.3,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Thymol"
+  },
+  "7127": {
+    "CID": 7127,
+    "MolecularWeight": "178.23",
+    "XLogP": 2.5,
+    "TPSA": 18.5,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 4,
+    "Title": "Methyleugenol"
+  },
+  "72326": {
+    "CID": 72326,
+    "MolecularWeight": "442.7",
+    "XLogP": 8.3,
+    "TPSA": 40.5,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 2,
+    "Title": "Betulin"
+  },
+  "72936": {
+    "CID": 72936,
+    "MolecularWeight": "424.5",
+    "XLogP": 5.8,
+    "TPSA": 107,
+    "HBondDonorCount": 4,
+    "HBondAcceptorCount": 6,
+    "RotatableBondCount": 6,
+    "Title": "Sophoraflavanone G"
+  },
+  "73170": {
+    "CID": 73170,
+    "MolecularWeight": "426.7",
+    "XLogP": 9,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "alpha-Amyrin"
+  },
+  "73568": {
+    "CID": 73568,
+    "MolecularWeight": "634.5",
+    "XLogP": 0.1,
+    "TPSA": 311,
+    "HBondDonorCount": 11,
+    "HBondAcceptorCount": 18,
+    "RotatableBondCount": 3,
+    "Title": "Corilagin"
+  },
+  "7410": {
+    "CID": 7410,
+    "MolecularWeight": "120.15",
+    "XLogP": 1.6,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Acetophenone"
+  },
+  "7463": {
+    "CID": 7463,
+    "MolecularWeight": "134.22",
+    "XLogP": 4.1,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 1,
+    "Title": "p-CYMENE"
+  },
+  "7519": {
+    "CID": 7519,
+    "MolecularWeight": "108.14",
+    "XLogP": 2.1,
+    "TPSA": 9.2,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "Anisole"
+  },
+  "7650": {
+    "CID": 7650,
+    "MolecularWeight": "178.23",
+    "XLogP": 2.8,
+    "TPSA": 26.3,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 5,
+    "Title": "Benzyl butyrate"
+  },
+  "7794": {
+    "CID": 7794,
+    "MolecularWeight": "154.25",
+    "XLogP": 3,
+    "TPSA": 17.1,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 5,
+    "Title": "Citronellal"
+  },
+  "79035": {
+    "CID": 79035,
+    "MolecularWeight": "136.23",
+    "XLogP": 3.2,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Tricyclene"
+  },
+  "8207": {
+    "CID": 8207,
+    "MolecularWeight": "200.36",
+    "XLogP": 5.7,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 11,
+    "Title": "1-Tridecanol"
+  },
+  "8468": {
+    "CID": 8468,
+    "MolecularWeight": "168.15",
+    "XLogP": 1.4,
+    "TPSA": 66.8,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 2,
+    "Title": "Vanillic Acid"
+  },
+  "8815": {
+    "CID": 8815,
+    "MolecularWeight": "148.20",
+    "XLogP": 3.4,
+    "TPSA": 9.2,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 3,
+    "Title": "Estragole"
+  },
+  "90785": {
+    "CID": 90785,
+    "MolecularWeight": "222.37",
+    "XLogP": 2.9,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 1,
+    "Title": "5-Azulenemethanol, 1,2,3,3a,4,5,6,7(or 1,2,3,4,5,6,7,8)-octahydro-alpha,alpha,3,8-tetramethyl-"
+  },
+  "91354": {
+    "CID": 91354,
+    "MolecularWeight": "204.35",
+    "XLogP": 4.7,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 0,
+    "Title": "Aromadendrene"
+  },
+  "92097": {
+    "CID": 92097,
+    "MolecularWeight": "426.7",
+    "XLogP": 9.3,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "Taraxerol"
+  },
+  "92139": {
+    "CID": 92139,
+    "MolecularWeight": "202.33",
+    "XLogP": 5.4,
+    "TPSA": 0,
+    "HBondDonorCount": 0,
+    "HBondAcceptorCount": 0,
+    "RotatableBondCount": 4,
+    "Title": "alpha-Curcumene"
+  },
+  "92231": {
+    "CID": 92231,
+    "MolecularWeight": "220.35",
+    "XLogP": 3.1,
+    "TPSA": 20.2,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 1,
+    "RotatableBondCount": 0,
+    "Title": "Spathulenol"
+  },
+  "971": {
+    "CID": 971,
+    "MolecularWeight": "90.03",
+    "XLogP": -0.3,
+    "TPSA": 74.6,
+    "HBondDonorCount": 2,
+    "HBondAcceptorCount": 4,
+    "RotatableBondCount": 1,
+    "Title": "Oxalic Acid"
+  },
+  "985": {
+    "CID": 985,
+    "MolecularWeight": "256.42",
+    "XLogP": 6.4,
+    "TPSA": 37.3,
+    "HBondDonorCount": 1,
+    "HBondAcceptorCount": 2,
+    "RotatableBondCount": 14,
+    "Title": "Palmitic Acid"
+  }
+}
