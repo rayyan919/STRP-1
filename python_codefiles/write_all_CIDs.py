@@ -1,6 +1,6 @@
 from get_smiles import get_CIDs
 
-def write_all_CIDs(filename="InitialCompounds.txt"):
+def write_all_CIDs(filename="../input/InitialCompounds.txt"):
     # Check whether the file is empty or not if not empty then empty it first and then write all CIDs
     try:
         with open(filename, 'r') as file:

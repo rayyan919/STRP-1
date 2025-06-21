@@ -2,9 +2,9 @@ import os
 import glob
 import subprocess
 
-input_dir = "ligands_3D"
-output_folder = "ligands_mol2_obabel_minimal"
-log_folder = "sdf_to_mol2_conversion_logs"
+input_dir = "../ligands_3D"
+output_folder = "../output/ligands_mol2_obabel_minimal"
+log_folder = "../sdf_to_mol2_conversion_logs"
 
 if not os.path.exists(log_folder):
     print("Creating log folder:", log_folder)

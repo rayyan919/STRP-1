@@ -27,7 +27,7 @@ def fetch_all_compound_properties():
             print(f"Failed to fetch properties for CID {cid}")
         time.sleep(0.4)
     # Save detailed JSON
-    with open("ligands_lipsinki_properties.json", "w") as f:
+    with open("../output/ligands_lipsinki_properties.json", "w") as f:
         json.dump(all_props, f, indent=2)
 
 def num_violations():
@@ -48,7 +48,7 @@ def num_violations():
         "TPSA": (20, 130),
         "XLogP": 5
     }
-    with open('ligands_lipsinki_properties.json', 'r') as f:
+    with open('../output/ligands_lipsinki_properties.json', 'r') as f:
         all_props = json.load(f)
     violation_counts = []
     for cid, props in all_props.items():
@@ -90,9 +90,9 @@ def early_drug_filteration(allowed=3):
         if violations > allowed:
             discarded_cids.append((title, cid, violations, failed_properties))
     print(f"Discarded {len(discarded_cids)} compounds with more than {allowed} violations.")
-    with open("primary_lipsinki_discarded_compounds.json", "w") as f:
+    with open("../output/primary_lipsinki_discarded_compounds.json", "w") as f:
         json.dump(discarded_cids, f, indent=2)
-    with open('FilteredCompounds.txt', 'w') as f:
+    with open('../output/FilteredCompounds.txt', 'w') as f:
         listCIDs = get_CIDs()
         for cid in listCIDs:
             if cid not in [item[1] for item in discarded_cids]:

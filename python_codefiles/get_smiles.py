@@ -3,7 +3,7 @@ from glob import glob
 import pandas as pd
 import time
 
-def get_CIDs(filename = "ligands_3D/*.sdf"):
+def get_CIDs(filename = "../ligands_3D/*.sdf"):
     listCID = []
 
     sdf_files = glob(filename)
@@ -35,5 +35,5 @@ def get_all_smiles():
 
     # Save to CSV
     df = pd.DataFrame(results)
-    df.to_csv("ligands_smiles.csv", index=False)
+    df.to_csv("../output/ligands_smiles.csv", index=False)
 

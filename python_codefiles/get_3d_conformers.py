@@ -48,7 +48,7 @@ def get_3d_conformers(cid, retries=3):
         try:
             response = requests.get(url, timeout=15)
             if response.status_code == 200:
-                output_dir = 'fetched'
+                output_dir = '../fetched'
                 if not os.path.exists(output_dir):
                     os.makedirs(output_dir)
 
@@ -70,7 +70,7 @@ def get_3d_conformers(cid, retries=3):
     return downloaded
 
 
-def get_3d_conformers_from_file(filename="Compounds.txt"):
+def get_3d_conformers_from_file(filename="../input/InitialCompounds.txt"):
     """
     Fetch 3D conformers for all CIDs listed in the provided file.
     
@@ -108,5 +108,5 @@ def log_failed_CIDs(failed_CIDs):
 
 
 if __name__ == "__main__":
-    get_3d_conformers_from_file("Compounds.txt")
+    get_3d_conformers_from_file()
 
