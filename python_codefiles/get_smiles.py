@@ -2,11 +2,13 @@ import requests
 from glob import glob
 import pandas as pd
 import time
+import os
 
 def get_CIDs(filename = "../ligands_3D/*.sdf"):
     listCID = []
 
-    sdf_files = glob(filename)
+    ligands_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'ligands_3D'))
+    sdf_files = glob(os.path.join(ligands_dir, "*.sdf"))
     for path in sdf_files:
         filename = path.split('.')[0]
         listCID.append(filename.split('/')[-1].split('_')[-1])

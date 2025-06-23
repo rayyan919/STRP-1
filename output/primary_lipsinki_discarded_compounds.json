@@ -1,5 +1,16 @@
 [
   [
+    "6-O-beta-D-Glucopyranuronosyl-D-galactose",
+    "101286238",
+    4,
+    [
+      "HBondAcceptorCount",
+      "HBondDonorCount",
+      "TPSA",
+      "XLogP"
+    ]
+  ],
+  [
     "Proanthocyanidin",
     "108065",
     4,
@@ -35,24 +46,26 @@
   [
     "Fenugreekine",
     "444170",
-    5,
+    6,
     [
       "MolecularWeight",
       "HBondAcceptorCount",
       "HBondDonorCount",
       "RotatableBondCount",
-      "TPSA"
+      "TPSA",
+      "XLogP"
     ]
   ],
   [
     "Rutin",
     "5280805",
-    4,
+    5,
     [
       "MolecularWeight",
       "HBondAcceptorCount",
       "HBondDonorCount",
-      "TPSA"
+      "TPSA",
+      "XLogP"
     ]
   ],
   [

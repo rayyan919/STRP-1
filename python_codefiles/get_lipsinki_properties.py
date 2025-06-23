@@ -1,7 +1,9 @@
 import requests
-from get_smiles import get_CIDs
 import json
 import time
+from glob import glob
+import os
+from get_smiles import get_CIDs
 
 def get_lipsinki_properties(cid):
     url = f'https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/Title,MolecularWeight,XLogP,RotatableBondCount,TPSA,HBondDonorCount,HBondAcceptorCount/JSON'
@@ -38,7 +40,7 @@ def num_violations():
     hdonor =< 5
     rotatable =< 10
     20=<tpsa=<130
-    xlogp =< 5
+    -1.0 <= xlogp =< 5.6
     '''
     guides = {
         "MolecularWeight": 500,
@@ -46,7 +48,7 @@ def num_violations():
         "HBondDonorCount": 5,
         "RotatableBondCount": 10,
         "TPSA": (20, 130),
-        "XLogP": 5
+        "XLogP": (-1.0, 5.6)
     }
     with open('../output/ligands_lipsinki_properties.json', 'r') as f:
         all_props = json.load(f)
@@ -76,7 +78,7 @@ def num_violations():
         if tpsa < guides["TPSA"][0] or tpsa > guides["TPSA"][1]:
             violations += 1
             failed_properties.append("TPSA")
-        if xlogp > guides["XLogP"]:
+        if xlogp < guides["XLogP"][0] or xlogp > guides["XLogP"][1]:
             violations += 1
             failed_properties.append("XLogP")
         violation_counts.append((title, cid, violations, failed_properties))
