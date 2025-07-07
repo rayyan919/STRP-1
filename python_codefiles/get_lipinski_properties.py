@@ -5,7 +5,7 @@ from glob import glob
 import os
 from get_smiles import get_CIDs
 
-def get_lipsinki_properties(cid):
+def get_lipinski_properties(cid):
     url = f'https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/Title,MolecularWeight,XLogP,RotatableBondCount,TPSA,HBondDonorCount,HBondAcceptorCount/JSON'
     response = requests.get(url)
     if response.status_code == 200:
@@ -22,14 +22,14 @@ def fetch_all_compound_properties():
     all_props = {}
     for cid in listCID:
         print(f"Fetching properties for CID {cid}...")
-        props = get_lipsinki_properties(cid)
+        props = get_lipinski_properties(cid)
         if props:
             all_props[cid] = props
         else:
             print(f"Failed to fetch properties for CID {cid}")
         time.sleep(0.4)
     # Save detailed JSON
-    with open("../output/ligands_lipsinki_properties.json", "w") as f:
+    with open("../output/ligands_lipinski_properties.json", "w") as f:
         json.dump(all_props, f, indent=2)
 
 def num_violations():
@@ -50,7 +50,7 @@ def num_violations():
         "TPSA": (20, 130),
         "XLogP": (-1.0, 5.6)
     }
-    with open('../output/ligands_lipsinki_properties.json', 'r') as f:
+    with open('../output/ligands_lipinski_properties.json', 'r') as f:
         all_props = json.load(f)
     violation_counts = []
     for cid, props in all_props.items():
@@ -92,16 +92,36 @@ def early_drug_filteration(allowed=3):
         if violations > allowed:
             discarded_cids.append((title, cid, violations, failed_properties))
     print(f"Discarded {len(discarded_cids)} compounds with more than {allowed} violations.")
-    with open("../output/primary_lipsinki_discarded_compounds.json", "w") as f:
+    with open("../output/primary_lipinski_discarded_compounds.json", "w") as f:
         json.dump(discarded_cids, f, indent=2)
     with open('../output/FilteredCompounds.txt', 'w') as f:
         listCIDs = get_CIDs()
         for cid in listCIDs:
             if cid not in [item[1] for item in discarded_cids]:
                 f.write(f"CID:{cid}\n")
-            
+
+
+def write_filtered_smiles():
+    with open('../output/FilteredCompounds.txt', 'r') as f:
+        filtered_cids = [line.strip().split(':')[1] for line in f.readlines()]
+    
+    smiles_file = '../output/ligands_smiles.csv'
+    filtered_smiles = []
+    
+    with open(smiles_file, 'r') as f:
+        for line in f:
+            parts = line.strip().split(',')
+            if len(parts) >= 2:
+                cid = parts[0].strip()
+                smiles = parts[1].strip()
+                if cid in filtered_cids:
+                    filtered_smiles.append(smiles)
+    with open('../output/FilteredSmiles.txt', 'w') as f:
+        for smiles in filtered_smiles:
+            f.write(f"{smiles}\n")
 
 if __name__ == "__main__":
     # fetch_all_compound_properties()
     # print("All properties fetched and saved to ligands_lipinski_properties.json")
-    early_drug_filteration()
+    # early_drug_filteration()
+    write_filtered_smiles()

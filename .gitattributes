@@ -1,0 +1,17 @@
+# Always use LF (Unix) endings for docking-related formats
+*.pdb     text eol=lf
+*.pdbqt   text eol=lf
+*.mol2    text eol=lf
+*.sdf     text eol=lf
+
+# Treat all docking data files as text (not binary)
+*.pdb     text
+*.pdbqt   text
+*.mol2    text
+*.sdf     text
+
+# Prevent Git from trying to auto-merge these files
+*.pdb     merge=union
+*.pdbqt   merge=union
+*.mol2    merge=union
+*.sdf     merge=union
