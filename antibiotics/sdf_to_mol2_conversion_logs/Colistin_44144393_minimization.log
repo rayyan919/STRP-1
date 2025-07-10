@@ -1,0 +1,3 @@
+Minimization log for Colistin_44144393:
+Command used for conversion:
+obabel ../antibiotics/antibiotics_2D\Colistin_44144393.sdf -O ../antibiotics/antibiotics_mol2_obabel_minimal\Colistin_44144393.mol2 --gen3d

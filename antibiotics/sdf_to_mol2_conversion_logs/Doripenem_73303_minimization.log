@@ -1,0 +1,3 @@
+Minimization log for Doripenem_73303:
+Command used for conversion:
+obabel ../antibiotics/antibiotics_3D\Doripenem_73303.sdf -O ../antibiotics/antibiotics_mol2_obabel_minimal\Doripenem_73303.mol2

@@ -1,0 +1,24 @@
+PyMOL>set_name 7rpb, crystal
+PyMOL>set_name mer_crystal_out, docked
+PyMOL>hide everything
+PyMOL>show sticks, crystal and resn MER
+PyMOL>show sticks, docked
+PyMOL>color yellow, crystal and resn MER
+ Executive: Colored 26 atoms.
+PyMOL>color cyan, docked
+ Executive: Colored 26 atoms and 1 object.
+PyMOL>align docked, crystal
+ Match: read scoring matrix.
+ Match: assigning 1 x 315 pairwise scores.
+ MatchAlign: aligning residues (1 vs 315)...
+ MatchAlign: score 5.000
+ ExecutiveAlign: 26 atoms aligned.
+ ExecutiveRMS: 1 atoms rejected during cycle 1 (RMSD=1.62).
+ Executive: RMSD =    1.495 (25 to 25 atoms)
+PyMOL>select lig_crystal, crystal and resn MER
+ Selector: selection "lig_crystal" defined with 26 atoms.
+PyMOL>select lig_docked, docked
+ Selector: selection "lig_docked" defined with 26 atoms.
+PyMOL>rms_cur lig_crystal, lig_docked
+ Executive: RMSD =    1.636 (26 to 26 atoms)
+PyMOL>show everything

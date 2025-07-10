@@ -5,8 +5,8 @@ import subprocess
 # mol2_dir = r"C:\Users\rayya\OneDrive\Documents\ligands\ligands_mol2_obabel_optimized"
 # output_dir = r"C:\Users\rayya\OneDrive\Documents\ligands\ligands_pdbqt_optimized"
 
-mol2_dir = r"C:\Users\rayya\OneDrive\Documents\ligands\bound_ligand\ligands_mol2_obabel_minimal"
-output_dir = r"C:\Users\rayya\OneDrive\Documents\ligands\bound_ligand\ligands_pdbqt_minimal"
+mol2_dir = r"C:\Users\rayya\OneDrive\Documents\ligands\antibiotics\antibiotics_mol2_obabel_minimal"
+output_dir = r"C:\Users\rayya\OneDrive\Documents\ligands\antibiotics\antibiotics_pdbqt_minimal"
 
 def ligand_batch_prepare(mol2_dir, output_dir):
     if not os.path.exists(output_dir):
@@ -30,8 +30,7 @@ def ligand_batch_prepare(mol2_dir, output_dir):
             mgltools_python,
             prepare_script,
             "-l", os.path.basename(mol2_file),  # pass just filename, not full path
-            "-o", pdbqt_file,
-            "-A", "hydrogens"
+            "-o", pdbqt_file
         ]
         print("Processing:", mol2_file)
         

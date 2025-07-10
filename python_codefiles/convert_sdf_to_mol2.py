@@ -6,10 +6,10 @@ import subprocess
 # output_folder = "../output/ligands_mol2_obabel_minimal"
 # log_folder = "../sdf_to_mol2_conversion_logs"
 
-input_dir = "../bound_ligand/ligands_3D"
-output_folder ="../bound_ligand/ligands_mol2_obabel_optimized"
-log_folder = "../bound_ligand/sdf_to_mol2_conversion_logs"
-optimized = True
+input_dir = "../antibiotics/antibiotics_2D"
+output_folder ="../antibiotics/antibiotics_mol2_obabel_minimal"
+log_folder = "../antibiotics/sdf_to_mol2_conversion_logs"
+optimized = False
 
 def convert_sdf_to_mol2(input_dir, output_folder, log_folder, optimized):
 
@@ -40,8 +40,8 @@ def convert_sdf_to_mol2(input_dir, output_folder, log_folder, optimized):
                 command = [
                     "obabel", 
                     sdf_file, 
-                    "-O", mol2_file, 
-                    "-h"  # Add explicit hydrogens
+                    "-O", mol2_file,
+                    "--gen3d"
                 ]
             else:
             # Optimized command

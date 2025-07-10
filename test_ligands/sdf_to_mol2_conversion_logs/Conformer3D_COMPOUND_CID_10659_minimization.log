@@ -1,0 +1,3 @@
+Minimization log for Conformer3D_COMPOUND_CID_10659:
+Command used for conversion:
+obabel ../test_ligands/ligands_3D\Conformer3D_COMPOUND_CID_10659.sdf -O ../test_ligands/ligands_mol2_obabel_minimal\Conformer3D_COMPOUND_CID_10659.mol2

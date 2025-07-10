@@ -1,0 +1,3 @@
+Minimization log for Ertapenem_150610:
+Command used for conversion:
+obabel ../antibiotics/antibiotics_3D\Ertapenem_150610.sdf -O ../antibiotics/antibiotics_mol2_obabel_minimal\Ertapenem_150610.mol2

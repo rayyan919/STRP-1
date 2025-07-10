@@ -1,0 +1,3 @@
+Minimization log for Minocycline_54675783:
+Command used for conversion:
+obabel ../antibiotics/antibiotics_3D\Minocycline_54675783.sdf -O ../antibiotics/antibiotics_mol2_obabel_minimal\Minocycline_54675783.mol2
