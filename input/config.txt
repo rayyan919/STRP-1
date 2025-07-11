@@ -1,8 +1,8 @@
 receptor = C:\Users\rayya\OneDrive\Documents\ligands\proteins_pdb\prepared\7rpb.pdbqt
-ligand  = C:\Users\rayya\OneDrive\Documents\ligands\bound_ligand\ligands_mol2_obabel_minimal\Conformer3D_COMPOUND_CID_77232202.mol2
+ligand  = {path to ligand}
 center_x = 0.75
 center_y = 34.5
 center_z = 11.01
-size_x = 25
-size_y = 25
-size_z = 25
+size_x = 30
+size_y = 30
+size_z = 30

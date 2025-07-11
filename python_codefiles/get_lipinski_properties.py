@@ -3,7 +3,7 @@ import json
 import time
 from glob import glob
 import os
-from get_smiles import get_CIDs
+from get_smiles import get_CIDs, get_smiles
 
 def get_lipinski_properties(cid):
     url = f'https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/Title,MolecularWeight,XLogP,RotatableBondCount,TPSA,HBondDonorCount,HBondAcceptorCount/JSON'
@@ -120,8 +120,28 @@ def write_filtered_smiles():
         for smiles in filtered_smiles:
             f.write(f"{smiles}\n")
 
+def print_all_smiles_only(filename="../input/InitialCompounds.txt"):
+
+    # check whether it is a text file or a csv file
+    if filename.endswith('.csv'):
+        with open(filename, 'r') as f:
+            for line in f:
+                parts = line.strip().split(',')
+                if len(parts) >= 2:
+                    smiles = parts[1].strip()
+                    print(smiles)
+    elif filename.endswith(".txt"):
+        with open(filename, 'r') as f:
+            for line in f:
+                parts = line.strip().split(':')
+                print(get_smiles(parts[1]))
+                time.sleep(0.2)
+    
+
+
 if __name__ == "__main__":
     # fetch_all_compound_properties()
     # print("All properties fetched and saved to ligands_lipinski_properties.json")
     # early_drug_filteration()
-    write_filtered_smiles()
+    # write_filtered_smiles()
+    print_all_smiles_only()

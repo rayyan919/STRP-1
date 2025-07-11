@@ -16,7 +16,7 @@ def get_CIDs(filename = "../ligands_3D/*.sdf"):
 
 def get_smiles(cid):
 
-    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/CanonicalSMILES/TXT"
+    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/SMILES/TXT"
     try:
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
