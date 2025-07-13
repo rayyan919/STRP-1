@@ -1,0 +1,87 @@
+
+=== Ligand: Minocycline_54675783 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 219 (Chain A) | Dist A-H: 2.07Å | Angle: 115.6°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.00Å | Angle: 154.8°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.09Å | Angle: 151.6°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.60Å
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.71Å
+  TRP 221 (Chain A) <-> Ligand | Dist: 3.69Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 1
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-0.681, 35.259, -6.495)
+  Partial charge: -0.289
+
+  Atom index: 2
+  Atomic number: 8
+  Type: O2
+  Coordinates: (2.751, 40.274, -8.913)
+  Partial charge: -0.290
+
+  Atom index: 22
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-0.887, 40.102, -9.91)
+  Partial charge: -0.266
+
+  Atom index: 24
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-1.289, 38.057, -7.654)
+  Partial charge: -0.288
+
+  Atom index: 25
+  Atomic number: 8
+  Type: O3
+  Coordinates: (0.935, 37.184, -5.813)
+  Partial charge: -0.210
+
+  Atom index: 26
+  Atomic number: 7
+  Type: N3
+  Coordinates: (3.368, 38.649, -6.446)
+  Partial charge: -0.265
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 23
+  Atomic number: 7
+  Type: Nam
+  Coordinates: (0.177, 41.537, -8.448)
+  Partial charge: -0.084
+
+  Atom index: 23
+  Atomic number: 7
+  Type: Nam
+  Coordinates: (0.177, 41.537, -8.448)
+  Partial charge: -0.084
+
+  Atom index: 24
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-1.289, 38.057, -7.654)
+  Partial charge: -0.288
+
+  Atom index: 25
+  Atomic number: 8
+  Type: O3
+  Coordinates: (0.935, 37.184, -5.813)
+  Partial charge: -0.210
+
+==============================

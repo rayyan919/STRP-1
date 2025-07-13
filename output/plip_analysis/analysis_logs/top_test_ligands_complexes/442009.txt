@@ -1,0 +1,33 @@
+
+=== Ligand: 442009 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | TRP 221 (Chain A) | Dist A-H: 2.16Å | Angle: 178.2°
+  Ligand -> Protein | ARG 261 (Chain A) | Dist A-H: 3.12Å | Angle: 127.3°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.11Å | Angle: 128.3°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.94Å | Angle: 144.0°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.23Å | Angle: 164.7°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.75Å
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.70Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 2
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-0.487, 36.966, -9.74)
+  Partial charge: -0.250
+
+No unpaired HBD (donors).
+==============================

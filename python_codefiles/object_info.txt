@@ -1,0 +1,394 @@
+Ligand: MER (Chain A, Res 301)
+Residues involved in binding:
+-----------------------------
+Mapper:
+<plip.structure.preparation.Mapper object at 0x00000281466DFD90>
+
+
+all_hbonds_ldon:
+[ hbond(a=<openbabel.pybel.Atom object at 0x000002814B312080>, a_orig_idx=774, d=<openbabel.pybel.Atom object at 0x000002814B3BFB80>, d_orig_idx=1941, h=<openbabel.pybel.Atom object at 0x000002814B3C7730>, distance_ah=np.float64(2.697915751653536), distance_ad=np.float64(3.0641922263461217), angle=np.float64(102.40627462789286), type='strong', protisdon=False, resnr=128, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O3', dtype='Npl')]
+
+
+all_hbonds_pdon:
+[ hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C49D0>, a_orig_idx=1956, d=<openbabel.pybel.Atom object at 0x000002814B2EDBD0>, d_orig_idx=1517, h=<openbabel.pybel.Atom object at 0x000002814BBEB820>, distance_ah=np.float64(3.141295010696231), distance_ad=np.float64(3.7335829976043144), angle=np.float64(120.91566525164164), type='strong', protisdon=True, resnr=219, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='O3'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C49D0>, a_orig_idx=1956, d=<openbabel.pybel.Atom object at 0x000002814B367CA0>, d_orig_idx=1824, h=<openbabel.pybel.Atom object at 0x000002814BBF0AF0>, distance_ah=np.float64(1.9757162080020727), distance_ad=np.float64(2.956490317927661), angle=np.float64(173.89742920184395), type='strong', protisdon=True, resnr=261, restype='ARG', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='Ng+'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C49D0>, a_orig_idx=1956, d=<openbabel.pybel.Atom object at 0x000002814B367D90>, d_orig_idx=1825, h=<openbabel.pybel.Atom object at 0x000002814BBF1120>, distance_ah=np.float64(2.915332902752015), distance_ad=np.float64(3.64245823586215), angle=np.float64(131.4395803068611), type='strong', protisdon=True, resnr=261, restype='ARG', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='Ng+'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4AC0>, a_orig_idx=1957, d=<openbabel.pybel.Atom object at 0x000002814B312080>, d_orig_idx=774, h=<openbabel.pybel.Atom object at 0x000002814BBEA740>, distance_ah=np.float64(3.124662706355238), distance_ad=np.float64(4.050195180482047), angle=np.float64(160.09396061400926), type='strong', protisdon=True, resnr=128, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='O3'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4AC0>, a_orig_idx=1957, d=<openbabel.pybel.Atom object at 0x000002814B367CA0>, d_orig_idx=1824, h=<openbabel.pybel.Atom object at 0x000002814BBF0AF0>, distance_ah=np.float64(3.055319812315664), distance_ad=np.float64(3.7633943455343624), angle=np.float64(129.90006089848663), type='strong', protisdon=True, resnr=261, restype='ARG', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='Ng+'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4AC0>, a_orig_idx=1957, d=<openbabel.pybel.Atom object at 0x000002814B367D90>, d_orig_idx=1825, h=<openbabel.pybel.Atom object at 0x000002814BBF1120>, distance_ah=np.float64(2.181576335669617), distance_ad=np.float64(3.1211856721444793), angle=np.float64(159.11447041582295), type='strong', protisdon=True, resnr=261, restype='ARG', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='Ng+'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4D90>, a_orig_idx=1960, d=<openbabel.pybel.Atom object at 0x000002814B2CEE90>, d_orig_idx=381, h=<openbabel.pybel.Atom object at 0x000002814BBE8BE0>, distance_ah=np.float64(2.0737982264155166), distance_ad=np.float64(2.800954480172786), angle=np.float64(129.10402584902033), type='strong', protisdon=True, resnr=81, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=False, atype='O2', dtype='Nam'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4D90>, a_orig_idx=1960, d=<openbabel.pybel.Atom object at 0x000002814B2EE080>, d_orig_idx=1522, h=<openbabel.pybel.Atom object at 0x000002814BBEBC10>, distance_ah=np.float64(1.8964916783718193), distance_ad=np.float64(2.87372267277133), angle=np.float64(171.41589652565327), type='strong', protisdon=True, resnr=221, restype='TRP', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=False, atype='O2', dtype='Nam')]
+
+
+all_hydrophobic_contacts:
+[ hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B306800>, bsatom_orig_idx=646, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C4070>, ligatom_orig_idx=1946, distance=np.float64(3.8549662774141096), restype='TYR', resnr=112, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A'),
+  hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B3069E0>, bsatom_orig_idx=648, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C4070>, ligatom_orig_idx=1946, distance=np.float64(3.751590329446968), restype='TYR', resnr=112, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A'),
+  hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B331AE0>, bsatom_orig_idx=1108, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C5060>, ligatom_orig_idx=1963, distance=np.float64(3.478226703364805), restype='LEU', resnr=168, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A')]
+
+
+all_itypes:
+[ saltbridge(positive=pcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814BC0B190>], atoms_orig_idx=[1511], type='positive', center=[np.float64(-2.284), np.float64(27.671), np.float64(-8.284)], restype='LYS', resnr=218, reschain='A'), negative=lcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC610>, <openbabel.pybel.Atom object at 0x000002814B3CCAC0>], orig_atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC130>, <openbabel.pybel.Atom object at 0x000002814B3CC9D0>], atoms_orig_idx=[1957, 1956], type='negative', center=[np.float64(-2.461), np.float64(32.722500000000004), np.float64(-9.8235)], fgroup='carboxylate'), distance=np.float64(5.283847225270621), protispos=True, resnr=218, restype='LYS', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A'),
+  saltbridge(positive=pcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814BC0B760>, <openbabel.pybel.Atom object at 0x000002814BC0B7F0>, <openbabel.pybel.Atom object at 0x000002814BC0B910>], atoms_orig_idx=[1822, 1824, 1825], type='positive', center=[np.float64(-5.743333333333333), np.float64(34.22), np.float64(-10.273333333333333)], restype='ARG', resnr=261, reschain='A'), negative=lcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC610>, <openbabel.pybel.Atom object at 0x000002814B3CCAC0>], orig_atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC130>, <openbabel.pybel.Atom object at 0x000002814B3CC9D0>], atoms_orig_idx=[1957, 1956], type='negative', center=[np.float64(-2.461), np.float64(32.722500000000004), np.float64(-9.8235)], fgroup='carboxylate'), distance=np.float64(3.6357349173019857), protispos=True, resnr=261, restype='ARG', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C49D0>, a_orig_idx=1956, d=<openbabel.pybel.Atom object at 0x000002814B2EDBD0>, d_orig_idx=1517, h=<openbabel.pybel.Atom object at 0x000002814BBEB820>, distance_ah=np.float64(3.141295010696231), distance_ad=np.float64(3.7335829976043144), angle=np.float64(120.91566525164164), type='strong', protisdon=True, resnr=219, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='O3'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4AC0>, a_orig_idx=1957, d=<openbabel.pybel.Atom object at 0x000002814B312080>, d_orig_idx=774, h=<openbabel.pybel.Atom object at 0x000002814BBEA740>, distance_ah=np.float64(3.124662706355238), distance_ad=np.float64(4.050195180482047), angle=np.float64(160.09396061400926), type='strong', protisdon=True, resnr=128, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='O3'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4D90>, a_orig_idx=1960, d=<openbabel.pybel.Atom object at 0x000002814B2CEE90>, d_orig_idx=381, h=<openbabel.pybel.Atom object at 0x000002814BBE8BE0>, distance_ah=np.float64(2.0737982264155166), distance_ad=np.float64(2.800954480172786), angle=np.float64(129.10402584902033), type='strong', protisdon=True, resnr=81, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=False, atype='O2', dtype='Nam'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4D90>, a_orig_idx=1960, d=<openbabel.pybel.Atom object at 0x000002814B2EE080>, d_orig_idx=1522, h=<openbabel.pybel.Atom object at 0x000002814BBEBC10>, distance_ah=np.float64(1.8964916783718193), distance_ad=np.float64(2.87372267277133), angle=np.float64(171.41589652565327), type='strong', protisdon=True, resnr=221, restype='TRP', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=False, atype='O2', dtype='Nam'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B312080>, a_orig_idx=774, d=<openbabel.pybel.Atom object at 0x000002814B3BFB80>, d_orig_idx=1941, h=<openbabel.pybel.Atom object at 0x000002814B3C7730>, distance_ah=np.float64(2.697915751653536), distance_ad=np.float64(3.0641922263461217), angle=np.float64(102.40627462789286), type='strong', protisdon=False, resnr=128, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O3', dtype='Npl'),
+  hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B3069E0>, bsatom_orig_idx=648, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C4070>, ligatom_orig_idx=1946, distance=np.float64(3.751590329446968), restype='TYR', resnr=112, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A'),
+  hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B331AE0>, bsatom_orig_idx=1108, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C5060>, ligatom_orig_idx=1963, distance=np.float64(3.478226703364805), restype='LEU', resnr=168, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A')]
+
+
+all_pication_laro:
+[]
+
+
+all_pication_paro:
+[]
+
+
+altconf:
+[ 612,
+  614,
+  616,
+  618,
+  620,
+  622,
+  624,
+  626,
+  628,
+  630,
+  632,
+  958,
+  960,
+  962,
+  964,
+  966,
+  968,
+  970,
+  972,
+  974,
+  976,
+  978,
+  980,
+  982,
+  984,
+  986,
+  1270,
+  1272,
+  1274,
+  1276,
+  1278,
+  1280,
+  1282,
+  1284,
+  1286,
+  1288,
+  1290]
+
+
+bindingsite:
+<plip.structure.preparation.BindingSite object at 0x000002814B39EE90>
+
+
+halogen_bonds:
+[]
+
+
+hbonds_ldon:
+[ hbond(a=<openbabel.pybel.Atom object at 0x000002814B312080>, a_orig_idx=774, d=<openbabel.pybel.Atom object at 0x000002814B3BFB80>, d_orig_idx=1941, h=<openbabel.pybel.Atom object at 0x000002814B3C7730>, distance_ah=np.float64(2.697915751653536), distance_ad=np.float64(3.0641922263461217), angle=np.float64(102.40627462789286), type='strong', protisdon=False, resnr=128, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O3', dtype='Npl')]
+
+
+hbonds_pdon:
+[ hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C49D0>, a_orig_idx=1956, d=<openbabel.pybel.Atom object at 0x000002814B2EDBD0>, d_orig_idx=1517, h=<openbabel.pybel.Atom object at 0x000002814BBEB820>, distance_ah=np.float64(3.141295010696231), distance_ad=np.float64(3.7335829976043144), angle=np.float64(120.91566525164164), type='strong', protisdon=True, resnr=219, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='O3'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4AC0>, a_orig_idx=1957, d=<openbabel.pybel.Atom object at 0x000002814B312080>, d_orig_idx=774, h=<openbabel.pybel.Atom object at 0x000002814BBEA740>, distance_ah=np.float64(3.124662706355238), distance_ad=np.float64(4.050195180482047), angle=np.float64(160.09396061400926), type='strong', protisdon=True, resnr=128, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=True, atype='O.co2', dtype='O3'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4D90>, a_orig_idx=1960, d=<openbabel.pybel.Atom object at 0x000002814B2CEE90>, d_orig_idx=381, h=<openbabel.pybel.Atom object at 0x000002814BBE8BE0>, distance_ah=np.float64(2.0737982264155166), distance_ad=np.float64(2.800954480172786), angle=np.float64(129.10402584902033), type='strong', protisdon=True, resnr=81, restype='SER', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=False, atype='O2', dtype='Nam'),
+  hbond(a=<openbabel.pybel.Atom object at 0x000002814B3C4D90>, a_orig_idx=1960, d=<openbabel.pybel.Atom object at 0x000002814B2EE080>, d_orig_idx=1522, h=<openbabel.pybel.Atom object at 0x000002814BBEBC10>, distance_ah=np.float64(1.8964916783718193), distance_ad=np.float64(2.87372267277133), angle=np.float64(171.41589652565327), type='strong', protisdon=True, resnr=221, restype='TRP', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A', sidechain=False, atype='O2', dtype='Nam')]
+
+
+hydrophobic_contacts:
+[ hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B3069E0>, bsatom_orig_idx=648, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C4070>, ligatom_orig_idx=1946, distance=np.float64(3.751590329446968), restype='TYR', resnr=112, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A'),
+  hydroph_interaction(bsatom=<openbabel.pybel.Atom object at 0x000002814B331AE0>, bsatom_orig_idx=1108, ligatom=<openbabel.pybel.Atom object at 0x000002814B3C5060>, ligatom_orig_idx=1963, distance=np.float64(3.478226703364805), restype='LEU', resnr=168, reschain='A', restype_l='MER', resnr_l=301, reschain_l='A')]
+
+
+interacting_chains:
+['A']
+
+
+interacting_res:
+['168A', '81A', '219A', '261A', '221A', '112A', '218A', '128A']
+
+
+lig_members:
+[('MER', 'A', 301)]
+
+
+ligand:
+<plip.structure.preparation.Ligand object at 0x000002814B2AC0A0>
+
+
+metal_complexes:
+[]
+
+
+no_interactions:
+False
+
+
+num_unpaired_hal:
+0
+
+
+num_unpaired_hba:
+3
+
+
+num_unpaired_hbd:
+1
+
+
+output_path:
+'C:\\Users\\rayya\\AppData\\Local\\Temp'
+
+
+pdbid:
+'complex_Protein'
+
+
+pication_laro:
+[]
+
+
+pication_paro:
+[]
+
+
+pistacking:
+[]
+
+
+saltbridge_lneg:
+[ saltbridge(positive=pcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814BC0B190>], atoms_orig_idx=[1511], type='positive', center=[np.float64(-2.284), np.float64(27.671), np.float64(-8.284)], restype='LYS', resnr=218, reschain='A'), negative=lcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC610>, <openbabel.pybel.Atom object at 0x000002814B3CCAC0>], orig_atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC130>, <openbabel.pybel.Atom object at 0x000002814B3CC9D0>], atoms_orig_idx=[1957, 1956], type='negative', center=[np.float64(-2.461), np.float64(32.722500000000004), np.float64(-9.8235)], fgroup='carboxylate'), distance=np.float64(5.283847225270621), protispos=True, resnr=218, restype='LYS', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A'),
+  saltbridge(positive=pcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814BC0B760>, <openbabel.pybel.Atom object at 0x000002814BC0B7F0>, <openbabel.pybel.Atom object at 0x000002814BC0B910>], atoms_orig_idx=[1822, 1824, 1825], type='positive', center=[np.float64(-5.743333333333333), np.float64(34.22), np.float64(-10.273333333333333)], restype='ARG', resnr=261, reschain='A'), negative=lcharge(atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC610>, <openbabel.pybel.Atom object at 0x000002814B3CCAC0>], orig_atoms=[<openbabel.pybel.Atom object at 0x000002814B3CC130>, <openbabel.pybel.Atom object at 0x000002814B3CC9D0>], atoms_orig_idx=[1957, 1956], type='negative', center=[np.float64(-2.461), np.float64(32.722500000000004), np.float64(-9.8235)], fgroup='carboxylate'), distance=np.float64(3.6357349173019857), protispos=True, resnr=261, restype='ARG', reschain='A', resnr_l=301, restype_l='MER', reschain_l='A')]
+
+
+saltbridge_pneg:
+[]
+
+
+unpaired_hal:
+[]
+
+
+unpaired_hal_orig_idx:
+[]
+
+
+unpaired_hba:
+[ <openbabel.pybel.Atom object at 0x000002814B3C4250>,
+  <openbabel.pybel.Atom object at 0x000002814B3C47F0>,
+  <openbabel.pybel.Atom object at 0x000002814B3C4F70>]
+
+
+unpaired_hba_orig_idx:
+[1948, 1954, 1962]
+
+
+unpaired_hbd:
+[<openbabel.pybel.Atom object at 0x000002814B3C4F70>]
+
+
+unpaired_hbd_orig_idx:
+[1962]
+
+
+water_bridges:
+[]
+
+
+
+Unpaired HBA:
+  Atom index: 11
+  Atomic number: 7
+  Type: N2
+  Coordinates: (1.798, 35.092, -6.919)
+OBAtom: <openbabel.openbabel.OBAtom; proxy of <Swig Object of type 'OpenBabel::OBAtom *' at 0x000002814B3C41B0> >
+OBAtom
+atomicmass: 14.0067
+atomicmass
+atomicnum: 7
+atomicnum
+cidx: [ERROR] 'OBAtom' object has no attribute 'GetCIdx'
+coordidx: 30
+coordidx
+coords: (1.798, 35.092, -6.919)
+coords
+degree: 2
+degree
+exactmass: 14.003074005
+exactmass
+formalcharge: 0
+formalcharge
+heavydegree: 2
+heavydegree
+heavyvalence: [ERROR] This property has been renamed. Use Atom.heavydegree instead.
+heterodegree: 0
+heterodegree
+heterovalence: [ERROR] This property has been renamed. Use Atom.heterodegree instead.
+hyb: 2
+hyb
+idx: 11
+idx
+implicitvalence: [ERROR] 'OBAtom' object has no attribute 'GetImplicitValence'
+isotope: 0
+isotope
+partialcharge: -0.26533544041120516
+partialcharge
+residue: <openbabel.pybel.Residue object at 0x000002814BC39DB0>
+residue
+spin: 0
+spin
+type: N2
+type
+valence: [ERROR] This property has been renamed. Use Atom.degree instead.
+vector: <openbabel.openbabel.vector3; proxy of <Swig Object of type 'OpenBabel::vector3 *' at 0x000002814BC39DA0> >
+vector
+
+  Atom index: 17
+  Atomic number: 8
+  Type: O2
+  Coordinates: (1.602, 38.599, -6.652)
+OBAtom: <openbabel.openbabel.OBAtom; proxy of <Swig Object of type 'OpenBabel::OBAtom *' at 0x000002814B3C4750> >
+OBAtom
+atomicmass: 15.9994
+atomicmass
+atomicnum: 8
+atomicnum
+cidx: [ERROR] 'OBAtom' object has no attribute 'GetCIdx'
+coordidx: 48
+coordidx
+coords: (1.602, 38.599, -6.652)
+coords
+degree: 1
+degree
+exactmass: 15.99491462
+exactmass
+formalcharge: 0
+formalcharge
+heavydegree: 1
+heavydegree
+heavyvalence: [ERROR] This property has been renamed. Use Atom.heavydegree instead.
+heterodegree: 0
+heterodegree
+heterovalence: [ERROR] This property has been renamed. Use Atom.heterodegree instead.
+hyb: 2
+hyb
+idx: 17
+idx
+implicitvalence: [ERROR] 'OBAtom' object has no attribute 'GetImplicitValence'
+isotope: 0
+isotope
+partialcharge: -0.27277956618832394
+partialcharge
+residue: <openbabel.pybel.Residue object at 0x000002814BC3A6B0>
+residue
+spin: 0
+spin
+type: O2
+type
+valence: [ERROR] This property has been renamed. Use Atom.degree instead.
+vector: <openbabel.openbabel.vector3; proxy of <Swig Object of type 'OpenBabel::vector3 *' at 0x000002814BC3A6A0> >
+vector
+
+  Atom index: 25
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.107, 31.133, -13.894)
+OBAtom: <openbabel.openbabel.OBAtom; proxy of <Swig Object of type 'OpenBabel::OBAtom *' at 0x000002814B3C4ED0> >
+OBAtom
+atomicmass: 15.9994
+atomicmass
+atomicnum: 8
+atomicnum
+cidx: [ERROR] 'OBAtom' object has no attribute 'GetCIdx'
+coordidx: 72
+coordidx
+coords: (3.107, 31.133, -13.894)
+coords
+degree: 1
+degree
+exactmass: 15.99491462
+exactmass
+formalcharge: 0
+formalcharge
+heavydegree: 1
+heavydegree
+heavyvalence: [ERROR] This property has been renamed. Use Atom.heavydegree instead.
+heterodegree: 0
+heterodegree
+heterovalence: [ERROR] This property has been renamed. Use Atom.heterodegree instead.
+hyb: 3
+hyb
+idx: 25
+idx
+implicitvalence: [ERROR] 'OBAtom' object has no attribute 'GetImplicitValence'
+isotope: 0
+isotope
+partialcharge: -0.22262211434137458
+partialcharge
+residue: <openbabel.pybel.Residue object at 0x000002814BC39DB0>
+residue
+spin: 0
+spin
+type: O3
+type
+valence: [ERROR] This property has been renamed. Use Atom.degree instead.
+vector: <openbabel.openbabel.vector3; proxy of <Swig Object of type 'OpenBabel::vector3 *' at 0x000002814BC39DA0> >
+vector
+
+
+Unpaired HBD:
+  Atom index: 25
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.107, 31.133, -13.894)
+OBAtom: <openbabel.openbabel.OBAtom; proxy of <Swig Object of type 'OpenBabel::OBAtom *' at 0x000002814B3C4ED0> >
+OBAtom
+atomicmass: 15.9994
+atomicmass
+atomicnum: 8
+atomicnum
+cidx: [ERROR] 'OBAtom' object has no attribute 'GetCIdx'
+coordidx: 72
+coordidx
+coords: (3.107, 31.133, -13.894)
+coords
+degree: 1
+degree
+exactmass: 15.99491462
+exactmass
+formalcharge: 0
+formalcharge
+heavydegree: 1
+heavydegree
+heavyvalence: [ERROR] This property has been renamed. Use Atom.heavydegree instead.
+heterodegree: 0
+heterodegree
+heterovalence: [ERROR] This property has been renamed. Use Atom.heterodegree instead.
+hyb: 3
+hyb
+idx: 25
+idx
+implicitvalence: [ERROR] 'OBAtom' object has no attribute 'GetImplicitValence'
+isotope: 0
+isotope
+partialcharge: -0.22262211434137458
+partialcharge
+residue: <openbabel.pybel.Residue object at 0x000002814BC3A6B0>
+residue
+spin: 0
+spin
+type: O3
+type
+valence: [ERROR] This property has been renamed. Use Atom.degree instead.
+vector: <openbabel.openbabel.vector3; proxy of <Swig Object of type 'OpenBabel::vector3 *' at 0x000002814BC3A6A0> >
+vector

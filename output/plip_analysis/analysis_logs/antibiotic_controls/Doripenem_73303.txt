@@ -1,0 +1,65 @@
+
+=== Ligand: Doripenem_73303 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 128 (Chain A) | Dist A-H: 1.85Å | Angle: 143.9°
+  Ligand -> Protein | ARG 261 (Chain A) | Dist A-H: 2.40Å | Angle: 130.1°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.38Å | Angle: 130.1°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.23Å | Angle: 140.0°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.70Å | Angle: 130.8°
+  Protein -> Ligand | ASN 262 (Chain A) | Dist A-H: 2.42Å | Angle: 130.0°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 2.97Å | Angle: 122.1°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 1.78Å | Angle: 159.7°
+  Protein -> Ligand | ASP 130 (Chain A) | Dist A-H: 3.32Å | Angle: 121.4°
+
+Salt Bridges:
+  LYS 218 (Chain A) <-> Ligand | Distance: 4.28Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.23Å
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.63Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.45Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 14
+  Atomic number: 7
+  Type: N3
+  Coordinates: (-1.112, 32.131, -5.68)
+  Partial charge: -0.217
+
+  Atom index: 17
+  Atomic number: 7
+  Type: N3
+  Coordinates: (-3.527, 34.004, -4.835)
+  Partial charge: -0.063
+
+  Atom index: 19
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-4.166, 31.552, -5.34)
+  Partial charge: -0.137
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 14
+  Atomic number: 7
+  Type: N3
+  Coordinates: (-1.112, 32.131, -5.68)
+  Partial charge: -0.217
+
+  Atom index: 17
+  Atomic number: 7
+  Type: N3
+  Coordinates: (-3.527, 34.004, -4.835)
+  Partial charge: -0.063
+
+==============================

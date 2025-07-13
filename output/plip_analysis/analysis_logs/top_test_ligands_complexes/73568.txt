@@ -1,0 +1,101 @@
+
+=== Ligand: 73568 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 81 (Chain A) | Dist A-H: 2.29Å | Angle: 145.4°
+  Ligand -> Protein | THR 111 (Chain A) | Dist A-H: 3.41Å | Angle: 117.4°
+  Ligand -> Protein | SER 128 (Chain A) | Dist A-H: 3.02Å | Angle: 113.2°
+  Ligand -> Protein | ASP 130 (Chain A) | Dist A-H: 2.69Å | Angle: 109.5°
+  Ligand -> Protein | TRP 221 (Chain A) | Dist A-H: 2.07Å | Angle: 126.0°
+  Protein -> Ligand | THR 111 (Chain A) | Dist A-H: 2.99Å | Angle: 128.9°
+  Protein -> Ligand | THR 111 (Chain A) | Dist A-H: 3.06Å | Angle: 143.2°
+  Protein -> Ligand | TYR 112 (Chain A) | Dist A-H: 3.20Å | Angle: 123.9°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.12Å | Angle: 109.9°
+  Protein -> Ligand | MET 223 (Chain A) | Dist A-H: 2.20Å | Angle: 166.6°
+  Protein -> Ligand | GLN 134 (Chain A) | Dist A-H: 3.19Å | Angle: 100.3°
+  Protein -> Ligand | ARG 110 (Chain A) | Dist A-H: 3.07Å | Angle: 123.4°
+  Protein -> Ligand | LYS 108 (Chain A) | Dist A-H: 2.94Å | Angle: 106.7°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.34Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 1
+  Atomic number: 8
+  Type: O3
+  Coordinates: (6.325, 30.376, -15.532)
+  Partial charge: -0.314
+
+  Atom index: 4
+  Atomic number: 8
+  Type: O2
+  Coordinates: (11.0, 31.426, -17.838)
+  Partial charge: -0.245
+
+  Atom index: 5
+  Atomic number: 8
+  Type: O2
+  Coordinates: (10.302, 32.603, -13.276)
+  Partial charge: -0.245
+
+  Atom index: 38
+  Atomic number: 8
+  Type: O3
+  Coordinates: (6.066, 30.484, -18.512)
+  Partial charge: -0.212
+
+  Atom index: 41
+  Atomic number: 8
+  Type: O3
+  Coordinates: (10.096, 37.071, -16.886)
+  Partial charge: -0.283
+
+  Atom index: 42
+  Atomic number: 8
+  Type: O3
+  Coordinates: (14.487, 32.732, -16.667)
+  Partial charge: -0.283
+
+  Atom index: 43
+  Atomic number: 8
+  Type: O3
+  Coordinates: (14.5, 28.718, -14.088)
+  Partial charge: -0.283
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 38
+  Atomic number: 8
+  Type: O3
+  Coordinates: (6.066, 30.484, -18.512)
+  Partial charge: -0.212
+
+  Atom index: 41
+  Atomic number: 8
+  Type: O3
+  Coordinates: (10.096, 37.071, -16.886)
+  Partial charge: -0.283
+
+  Atom index: 42
+  Atomic number: 8
+  Type: O3
+  Coordinates: (14.487, 32.732, -16.667)
+  Partial charge: -0.283
+
+  Atom index: 43
+  Atomic number: 8
+  Type: O3
+  Coordinates: (14.5, 28.718, -14.088)
+  Partial charge: -0.283
+
+==============================

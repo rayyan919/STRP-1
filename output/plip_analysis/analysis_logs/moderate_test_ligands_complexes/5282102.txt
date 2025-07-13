@@ -1,0 +1,72 @@
+
+=== Ligand: 5282102 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | TRP 221 (Chain A) | Dist A-H: 1.79Å | Angle: 168.1°
+  Ligand -> Protein | SER 257 (Chain A) | Dist A-H: 2.74Å | Angle: 144.3°
+  Ligand -> Protein | SER 259 (Chain A) | Dist A-H: 3.05Å | Angle: 133.1°
+  Ligand -> Protein | ARG 261 (Chain A) | Dist A-H: 2.51Å | Angle: 146.4°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.42Å | Angle: 127.8°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.35Å | Angle: 157.6°
+  Protein -> Ligand | GLY 258 (Chain A) | Dist A-H: 2.39Å | Angle: 167.5°
+  Protein -> Ligand | SER 259 (Chain A) | Dist A-H: 2.08Å | Angle: 129.0°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 2.80Å | Angle: 162.4°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.48Å | Angle: 158.5°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 3.36Å | Angle: 133.2°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.93Å
+  TRP 221 (Chain A) <-> Ligand | Dist: 3.71Å
+
+Pi-Stacking Interactions:
+  TYR 112 (Chain A) <-> Ligand | Offset: 0.49Å
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 12
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-0.75, 35.225, -7.243)
+  Partial charge: -0.444
+
+  Atom index: 14
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-1.205, 37.507, -7.418)
+  Partial charge: -0.316
+
+  Atom index: 22
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-4.499, 37.167, -4.988)
+  Partial charge: -0.217
+
+  Atom index: 30
+  Atomic number: 8
+  Type: O3
+  Coordinates: (4.005, 39.282, -7.375)
+  Partial charge: -0.287
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 22
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-4.499, 37.167, -4.988)
+  Partial charge: -0.217
+
+  Atom index: 30
+  Atomic number: 8
+  Type: O3
+  Coordinates: (4.005, 39.282, -7.375)
+  Partial charge: -0.287
+
+==============================

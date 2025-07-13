@@ -1,0 +1,35 @@
+
+=== Ligand: 5280378 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 219 (Chain A) | Dist A-H: 2.56Å | Angle: 114.5°
+  Protein -> Ligand | TYR 112 (Chain A) | Dist A-H: 2.12Å | Angle: 144.3°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.65Å | Angle: 108.1°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 1.94Å | Angle: 152.3°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.30Å | Angle: 138.8°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.66Å
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.89Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.45Å
+  TRP 221 (Chain A) <-> Ligand | Dist: 3.59Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 18
+  Atomic number: 8
+  Type: O3
+  Coordinates: (6.941, 31.875, -16.794)
+  Partial charge: -0.471
+
+No unpaired HBD (donors).
+==============================

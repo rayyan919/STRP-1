@@ -1,0 +1,91 @@
+
+=== Ligand: 5280441 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 81 (Chain A) | Dist A-H: 3.54Å | Angle: 105.3°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.18Å | Angle: 147.6°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 3.17Å | Angle: 103.9°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.34Å | Angle: 102.3°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.00Å | Angle: 142.0°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.15Å | Angle: 138.9°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  ILE 207 (Chain A) <-> Ligand | Dist: 3.30Å
+No pi-stacking interactions found.
+
+Pi-Cation Interactions:
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.87Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.70Å
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 2
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-5.319, 35.953, -4.596)
+  Partial charge: -0.286
+
+  Atom index: 13
+  Atomic number: 8
+  Type: O3
+  Coordinates: (0.28, 34.224, -8.488)
+  Partial charge: -0.346
+
+  Atom index: 19
+  Atomic number: 8
+  Type: O3
+  Coordinates: (2.995, 33.946, -7.624)
+  Partial charge: -0.218
+
+  Atom index: 23
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-0.761, 36.497, -9.006)
+  Partial charge: -0.287
+
+  Atom index: 30
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-4.256, 27.269, -4.538)
+  Partial charge: -0.287
+
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-4.133, 37.853, -5.963)
+  Partial charge: -0.286
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 19
+  Atomic number: 8
+  Type: O3
+  Coordinates: (2.995, 33.946, -7.624)
+  Partial charge: -0.218
+
+  Atom index: 23
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-0.761, 36.497, -9.006)
+  Partial charge: -0.287
+
+  Atom index: 30
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-4.256, 27.269, -4.538)
+  Partial charge: -0.287
+
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-4.133, 37.853, -5.963)
+  Partial charge: -0.286
+
+==============================

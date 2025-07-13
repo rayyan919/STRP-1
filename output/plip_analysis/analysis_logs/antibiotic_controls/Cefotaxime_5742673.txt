@@ -1,0 +1,62 @@
+
+=== Ligand: Cefotaxime_5742673 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 128 (Chain A) | Dist A-H: 2.39Å | Angle: 112.5°
+  Ligand -> Protein | ALA 217 (Chain A) | Dist A-H: 3.47Å | Angle: 110.1°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 2.02Å | Angle: 134.3°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 2.05Å | Angle: 164.1°
+  Protein -> Ligand | LYS 218 (Chain A) | Dist A-H: 3.36Å | Angle: 113.2°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 3.11Å | Angle: 173.2°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.41Å | Angle: 105.2°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.98Å | Angle: 136.1°
+
+Salt Bridges:
+  LYS 84 (Chain A) <-> Ligand | Distance: 5.09Å
+
+Hydrophobic Interactions:
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.81Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 14
+  Atomic number: 7
+  Type: N2
+  Coordinates: (-1.118, 33.983, -4.855)
+  Partial charge: -0.077
+
+  Atom index: 15
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-0.607, 35.009, -5.661)
+  Partial charge: -0.373
+
+  Atom index: 18
+  Atomic number: 7
+  Type: Nar
+  Coordinates: (-3.063, 31.078, -5.396)
+  Partial charge: -0.220
+
+  Atom index: 29
+  Atomic number: 8
+  Type: O2
+  Coordinates: (1.903, 33.441, -15.83)
+  Partial charge: -0.250
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 10
+  Atomic number: 7
+  Type: Nam
+  Coordinates: (-1.858, 33.074, -7.823)
+  Partial charge: -0.190
+
+==============================

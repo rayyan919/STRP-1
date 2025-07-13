@@ -1,0 +1,49 @@
+
+=== Ligand: 10026486 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | TRP 221 (Chain A) | Dist A-H: 2.75Å | Angle: 123.7°
+  Protein -> Ligand | MET 223 (Chain A) | Dist A-H: 2.71Å | Angle: 147.1°
+  Protein -> Ligand | GLY 224 (Chain A) | Dist A-H: 3.28Å | Angle: 129.5°
+
+Salt Bridges:
+  LYS 218 (Chain A) <-> Ligand | Distance: 4.74Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.69Å
+
+Hydrophobic Interactions:
+  THR 111 (Chain A) <-> Ligand | Dist: 3.53Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.67Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.66Å
+  LEU 168 (Chain A) <-> Ligand | Dist: 3.53Å
+  LEU 168 (Chain A) <-> Ligand | Dist: 3.62Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.52Å
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.62Å
+  MET 223 (Chain A) <-> Ligand | Dist: 3.42Å
+
+Pi-Stacking Interactions:
+  TYR 112 (Chain A) <-> Ligand | Offset: 1.28Å
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 19
+  Atomic number: 8
+  Type: O2
+  Coordinates: (2.788, 30.728, -13.11)
+  Partial charge: -0.271
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 2
+  Atomic number: 7
+  Type: Nam
+  Coordinates: (3.272, 32.633, -15.793)
+  Partial charge: -0.194
+
+==============================

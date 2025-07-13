@@ -78,6 +78,8 @@ def create_primary_rankings(control='../docking_results/antibiotic_controls/dock
 
     print("All ranks assigned")
 
+
+
 if __name__ == "__main__":
     create_primary_rankings()
 

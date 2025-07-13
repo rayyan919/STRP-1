@@ -1,0 +1,39 @@
+
+=== Ligand: 92097 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+No hydrogen bonds found.
+No salt bridges found.
+
+Hydrophobic Interactions:
+  THR 111 (Chain A) <-> Ligand | Dist: 3.95Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.50Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.71Å
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.84Å
+  PRO 131 (Chain A) <-> Ligand | Dist: 3.57Å
+  PRO 131 (Chain A) <-> Ligand | Dist: 3.28Å
+  LEU 168 (Chain A) <-> Ligand | Dist: 3.76Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (15.352, 26.522, -14.731)
+  Partial charge: -0.223
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (15.352, 26.522, -14.731)
+  Partial charge: -0.223
+
+==============================

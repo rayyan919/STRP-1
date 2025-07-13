@@ -1,0 +1,48 @@
+
+=== Ligand: Ertapenem_150610 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | LEU 127 (Chain A) | Dist A-H: 2.62Å | Angle: 109.8°
+  Ligand -> Protein | SER 128 (Chain A) | Dist A-H: 2.57Å | Angle: 116.5°
+  Ligand -> Protein | SER 219 (Chain A) | Dist A-H: 2.50Å | Angle: 136.7°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.27Å | Angle: 132.3°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.28Å | Angle: 101.3°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.02Å | Angle: 125.5°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 1.93Å | Angle: 165.4°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.28Å | Angle: 165.0°
+
+Salt Bridges:
+  LYS 218 (Chain A) <-> Ligand | Distance: 4.37Å
+  LYS 218 (Chain A) <-> Ligand | Distance: 4.09Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.09Å
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.69Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.43Å
+  ILE 207 (Chain A) <-> Ligand | Dist: 3.83Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 23
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-0.477, 33.359, -3.22)
+  Partial charge: -0.271
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 24
+  Atomic number: 7
+  Type: Nam
+  Coordinates: (-1.989, 33.741, -4.981)
+  Partial charge: -0.178
+
+==============================

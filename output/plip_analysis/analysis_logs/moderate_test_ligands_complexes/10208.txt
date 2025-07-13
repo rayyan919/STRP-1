@@ -1,0 +1,36 @@
+
+=== Ligand: 10208 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 81 (Chain A) | Dist A-H: 2.07Å | Angle: 157.9°
+  Ligand -> Protein | SER 219 (Chain A) | Dist A-H: 2.09Å | Angle: 142.1°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 2.43Å | Angle: 103.8°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 3.04Å | Angle: 166.5°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.30Å | Angle: 125.2°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.52Å | Angle: 114.4°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 3.33Å | Angle: 127.0°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.22Å | Angle: 160.4°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.31Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.34Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 2
+  Atomic number: 8
+  Type: O2
+  Coordinates: (2.437, 34.556, -10.642)
+  Partial charge: -0.287
+
+No unpaired HBD (donors).
+==============================

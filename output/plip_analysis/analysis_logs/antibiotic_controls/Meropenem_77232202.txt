@@ -1,0 +1,48 @@
+
+=== Ligand: 77232202 MER (Chain A, Res 301) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 81 (Chain A) | Dist A-H: 2.15Å | Angle: 122.3°
+  Ligand -> Protein | SER 128 (Chain A) | Dist A-H: 2.10Å | Angle: 169.7°
+  Ligand -> Protein | ASP 130 (Chain A) | Dist A-H: 2.92Å | Angle: 144.4°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.31Å | Angle: 128.6°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 2.11Å | Angle: 157.8°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 2.92Å | Angle: 101.1°
+  Protein -> Ligand | LYS 84 (Chain A) | Dist A-H: 2.78Å | Angle: 153.0°
+
+Salt Bridges:
+  LYS 218 (Chain A) <-> Ligand | Distance: 4.84Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.08Å
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.75Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.82Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.68Å
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.67Å
+
+Pi-Stacking Interactions:
+  TRP 221 (Chain A) <-> Ligand | Offset: 0.18Å
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 11
+  Atomic number: 7
+  Type: N2
+  Coordinates: (-0.061, 37.924, -9.913)
+  Partial charge: -0.265
+
+  Atom index: 17
+  Atomic number: 8
+  Type: O2
+  Coordinates: (-0.302, 37.281, -7.274)
+  Partial charge: -0.273
+
+No unpaired HBD (donors).
+==============================

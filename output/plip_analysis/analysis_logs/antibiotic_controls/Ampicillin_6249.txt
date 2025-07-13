@@ -1,0 +1,37 @@
+
+=== Ligand: Ampicillin_6249 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | TRP 221 (Chain A) | Dist A-H: 2.07Å | Angle: 139.2°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.29Å | Angle: 145.1°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.17Å | Angle: 150.5°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 2.15Å | Angle: 130.2°
+
+Salt Bridges:
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.81Å
+
+Hydrophobic Interactions:
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.77Å
+  TRP 221 (Chain A) <-> Ligand | Dist: 3.68Å
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.60Å
+
+Pi-Stacking Interactions:
+  TRP 115 (Chain A) <-> Ligand | Offset: 1.66Å
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+No unpaired HBA (acceptors).
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 11
+  Atomic number: 7
+  Type: Nam
+  Coordinates: (0.243, 32.588, -11.58)
+  Partial charge: -0.194
+
+==============================

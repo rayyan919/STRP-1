@@ -1,0 +1,36 @@
+
+=== Ligand: 73170 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+No hydrogen bonds found.
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.60Å
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.83Å
+  ASP 130 (Chain A) <-> Ligand | Dist: 3.16Å
+  TRP 221 (Chain A) <-> Ligand | Dist: 3.21Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.659, 31.581, -15.869)
+  Partial charge: -0.223
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.659, 31.581, -15.869)
+  Partial charge: -0.223
+
+==============================

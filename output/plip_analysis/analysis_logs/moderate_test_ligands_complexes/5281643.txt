@@ -1,0 +1,73 @@
+
+=== Ligand: 5281643 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 81 (Chain A) | Dist A-H: 2.40Å | Angle: 150.1°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.37Å | Angle: 159.3°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 2.28Å | Angle: 140.5°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 1.78Å | Angle: 168.6°
+  Protein -> Ligand | SER 259 (Chain A) | Dist A-H: 3.48Å | Angle: 106.9°
+  Protein -> Ligand | GLY 258 (Chain A) | Dist A-H: 3.24Å | Angle: 134.1°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 2.76Å | Angle: 113.4°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 3.01Å | Angle: 150.0°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.50Å | Angle: 111.1°
+
+Salt Bridges:
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.21Å
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.64Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.80Å
+  TRP 221 (Chain A) <-> Ligand | Dist: 3.97Å
+
+Pi-Stacking Interactions:
+  TYR 112 (Chain A) <-> Ligand | Offset: 1.85Å
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 30
+  Atomic number: 8
+  Type: O3
+  Coordinates: (2.845, 38.773, -7.553)
+  Partial charge: -0.283
+
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (2.143, 41.027, -9.02)
+  Partial charge: -0.283
+
+  Atom index: 33
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.036, 31.333, -13.625)
+  Partial charge: -0.286
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 30
+  Atomic number: 8
+  Type: O3
+  Coordinates: (2.845, 38.773, -7.553)
+  Partial charge: -0.283
+
+  Atom index: 31
+  Atomic number: 8
+  Type: O3
+  Coordinates: (2.143, 41.027, -9.02)
+  Partial charge: -0.283
+
+  Atom index: 33
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.036, 31.333, -13.625)
+  Partial charge: -0.286
+
+==============================

@@ -1,0 +1,40 @@
+
+=== Ligand: Imipenem_104838 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | SER 219 (Chain A) | Dist A-H: 2.49Å | Angle: 118.7°
+  Ligand -> Protein | SER 219 (Chain A) | Dist A-H: 2.96Å | Angle: 117.9°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.18Å | Angle: 129.7°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.68Å | Angle: 112.7°
+  Protein -> Ligand | SER 81 (Chain A) | Dist A-H: 3.32Å | Angle: 129.2°
+  Protein -> Ligand | SER 128 (Chain A) | Dist A-H: 2.17Å | Angle: 158.7°
+  Protein -> Ligand | LYS 84 (Chain A) | Dist A-H: 2.98Å | Angle: 143.4°
+  Protein -> Ligand | ASP 130 (Chain A) | Dist A-H: 3.52Å | Angle: 115.1°
+
+Salt Bridges:
+  LYS 218 (Chain A) <-> Ligand | Distance: 4.73Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 3.99Å
+
+Hydrophobic Interactions:
+  TYR 112 (Chain A) <-> Ligand | Dist: 3.94Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.75Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.61Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 12
+  Atomic number: 7
+  Type: N2
+  Coordinates: (-0.369, 32.758, -6.49)
+  Partial charge: -0.250
+
+No unpaired HBD (donors).
+==============================

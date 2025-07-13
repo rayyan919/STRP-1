@@ -1,0 +1,70 @@
+
+=== Ligand: 444170 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | MET 125 (Chain A) | Dist A-H: 2.57Å | Angle: 108.3°
+  Ligand -> Protein | LEU 127 (Chain A) | Dist A-H: 2.72Å | Angle: 103.5°
+  Ligand -> Protein | SER 128 (Chain A) | Dist A-H: 3.51Å | Angle: 117.0°
+  Ligand -> Protein | ASN 262 (Chain A) | Dist A-H: 2.25Å | Angle: 170.3°
+  Protein -> Ligand | ARG 261 (Chain A) | Dist A-H: 3.08Å | Angle: 125.2°
+  Protein -> Ligand | ASN 262 (Chain A) | Dist A-H: 2.40Å | Angle: 177.7°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 2.36Å | Angle: 139.5°
+  Protein -> Ligand | SER 219 (Chain A) | Dist A-H: 1.84Å | Angle: 161.3°
+  Protein -> Ligand | TRP 221 (Chain A) | Dist A-H: 2.96Å | Angle: 136.0°
+
+Salt Bridges:
+  ARG 261 (Chain A) <-> Ligand | Distance: 5.08Å
+  ARG 261 (Chain A) <-> Ligand | Distance: 4.34Å
+No hydrophobic contacts found.
+
+Pi-Stacking Interactions:
+  TYR 112 (Chain A) <-> Ligand | Offset: 1.50Å
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 17
+  Atomic number: 7
+  Type: Nar
+  Coordinates: (-2.632, 31.484, -4.459)
+  Partial charge: -0.219
+
+  Atom index: 20
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-5.269, 34.636, -1.976)
+  Partial charge: -0.216
+
+  Atom index: 28
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-1.025, 33.547, -11.823)
+  Partial charge: -0.345
+
+  Atom index: 33
+  Atomic number: 7
+  Type: Nar
+  Coordinates: (1.549, 34.324, -9.86)
+  Partial charge: -0.242
+
+  Atom index: 39
+  Atomic number: 8
+  Type: O2
+  Coordinates: (3.927, 34.839, -7.722)
+  Partial charge: -0.265
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 20
+  Atomic number: 8
+  Type: O3
+  Coordinates: (-5.269, 34.636, -1.976)
+  Partial charge: -0.216
+
+==============================

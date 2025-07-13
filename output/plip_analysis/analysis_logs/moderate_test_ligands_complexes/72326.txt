@@ -1,0 +1,39 @@
+
+=== Ligand: 72326 UNL (Chain d, Res 1) ===
+Residues involved in binding:
+-----------------------------
+
+Hydrogen Bonds:
+  Ligand -> Protein | LYS 109 (Chain A) | Dist A-H: 3.60Å | Angle: 113.1°
+No salt bridges found.
+
+Hydrophobic Interactions:
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.39Å
+  LEU 168 (Chain A) <-> Ligand | Dist: 3.53Å
+  TRP 115 (Chain A) <-> Ligand | Dist: 3.60Å
+  PRO 131 (Chain A) <-> Ligand | Dist: 3.31Å
+  LEU 168 (Chain A) <-> Ligand | Dist: 3.47Å
+No pi-stacking interactions found.
+No pi-cation interactions found.
+No metal complexes found.
+No water bridges found.
+No halogen bonds found.
+
+==============================
+
+Unpaired HBA (acceptors) atoms in ligand:
+  Atom index: 28
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.844, 34.521, -19.14)
+  Partial charge: -0.220
+
+
+Unpaired HBD (donors) atoms in ligand:
+  Atom index: 28
+  Atomic number: 8
+  Type: O3
+  Coordinates: (3.844, 34.521, -19.14)
+  Partial charge: -0.220
+
+==============================
