@@ -174,17 +174,18 @@ def analyze_all(ligands_dir, protein_file, output_dir):
 
             analyze_complex(complex_pdb, name, log_dir)
 
-
 if __name__ == "__main__":
-    protein_file = os.path.abspath("../proteins_pdb/prepared/7rpb_complex.pdb")
-    antibiotic_dir = os.path.abspath("../docking_results/antibiotic_controls/docked")
-    meropenem_dir = os.path.abspath("../bound_ligand_meropenem/reddocking_results/docked")
-    top_dir = os.path.abspath("../docking_results/tests_docked/docked/top")
-    moderate_dir = os.path.abspath("../docking_results/tests_docked/docked/moderate")
-    output_dir = os.path.abspath("../output/plip_analysis")
+#     protein_file = os.path.abspath("../proteins_pdb/prepared/7rpb_complex.pdb")
+#     antibiotic_dir = os.path.abspath("../docking_results/antibiotic_controls/docked")
+#     meropenem_dir = os.path.abspath("../bound_ligand_meropenem/reddocking_results/docked")
+#     top_dir = os.path.abspath("../docking_results/tests_docked/docked/top")
+#     moderate_dir = os.path.abspath("../docking_results/tests_docked/docked/moderate")
+#     output_dir = os.path.abspath("../output/plip_analysis")
 
-    analyze_all(antibiotic_dir, protein_file, output_dir)
-    analyze_all(meropenem_dir, protein_file, output_dir)
-    analyze_all(top_dir, protein_file, output_dir)
-    analyze_all(moderate_dir, protein_file, output_dir)
-    print("All logs and complexes created and organized!")
+    # analyze_all(antibiotic_dir, protein_file, output_dir)
+    # analyze_all(meropenem_dir, protein_file, output_dir)
+    # analyze_all(top_dir, protein_file, output_dir)
+    # analyze_all(moderate_dir, protein_file, output_dir)
+    # print("All logs and complexes created and organized!")
+    print(len(os.listdir("C:/Users/rayya/OneDrive/Documents/ligands/output/plip_analysis/pse_files/moderate_test_ligands")))
+
