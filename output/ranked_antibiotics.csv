@@ -1,0 +1,8 @@
+Ligand Name,CID,Binding Affinity,Interaction Score,Key Interactions
+Ampicillin_6249,6249,-7.716,3.525,"ARG261 (H_pdon, 2.17 Å, 150.5°); ARG261 (H_pdon, 2.29 Å, 145.1°); ARG261 (Salt, 4.81 Å); SER81 (H_pdon, 2.15 Å, 130.2°); TRP221 (H_ldon, 2.07 Å, 139.2°); TRP221 (Hydrophobic, 3.68 Å); TYR112 (Hydrophobic, 3.60 Å)"
+Minocycline_54675783,54675783,-7.631,3.199,"ARG261 (H_pdon, 2.00 Å, 154.8°); ARG261 (H_pdon, 2.09 Å, 151.6°); TRP221 (Hydrophobic, 3.69 Å); TYR112 (Hydrophobic, 3.60 Å); TYR112 (Hydrophobic, 3.71 Å)"
+Meropenem_441130,441130,-7.405,3.159,"ARG261 (Salt, 4.08 Å); LYS84 (H_pdon, 2.78 Å, 153.0°); SER81 (H_ldon, 2.15 Å, 122.3°); SER81 (H_pdon, 2.92 Å, 101.1°); SER81 (H_pdon, 3.31 Å, 128.6°); TRP221 (Pi); TYR112 (Hydrophobic, 3.75 Å)"
+Colistin_44144393,44144393,-7.575,1.546,"ARG261 (H_pdon, 2.97 Å, 125.7°); SER81 (H_pdon, 2.50 Å, 133.7°); TRP221 (H_pdon, 3.45 Å, 113.2°); TYR112 (H_ldon, 2.63 Å, 129.8°); TYR112 (H_ldon, 2.98 Å, 127.9°); TYR112 (Hydrophobic, 3.27 Å); TYR112 (Hydrophobic, 3.75 Å)"
+Doripenem_73303,73303,-8.065,1.422,"ARG261 (H_ldon, 2.40 Å, 130.1°); ARG261 (Salt, 4.23 Å); SER81 (H_pdon, 2.97 Å, 122.1°); SER81 (H_pdon, 3.38 Å, 130.1°); TRP221 (H_pdon, 2.23 Å, 140.0°); TYR112 (Hydrophobic, 3.63 Å)"
+Imipenem_104838,104838,-6.83,1.008,"ARG261 (Salt, 3.99 Å); LYS84 (H_pdon, 2.98 Å, 143.4°); SER81 (H_pdon, 3.32 Å, 129.2°); TRP221 (H_pdon, 2.18 Å, 129.7°); TYR112 (Hydrophobic, 3.94 Å)"
+Cefotaxime_5742673,5742673,-7.373,0.895,"ARG261 (H_pdon, 2.41 Å, 105.2°); LYS84 (Salt, 5.09 Å); SER81 (H_pdon, 2.02 Å, 134.3°); TRP221 (H_pdon, 2.98 Å, 136.1°)"

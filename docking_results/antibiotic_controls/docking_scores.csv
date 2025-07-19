@@ -1,8 +1,9 @@
-Ligand Name,Binding Score (kcal/mol)
+Ligand Name,Binding Affinity (kcal/mol)
 Ampicillin_6249,-7.716
 Cefotaxime_5742673,-7.373
 Colistin_44144393, -7.575
 Doripenem_73303,-8.065
 Ertapenem_150610,-8.985
 Imipenem_104838,-6.83
+Meropenem_441130,-7.405
 Minocycline_54675783,-7.631

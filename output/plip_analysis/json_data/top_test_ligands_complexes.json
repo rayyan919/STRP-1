@@ -1,0 +1,2193 @@
+{
+  "10026486": {
+    "H_ldon": [
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.75,
+        "angle": 123.7
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "MET",
+        "resnr": "223A",
+        "distance": 2.71,
+        "angle": 147.1
+      },
+      {
+        "res": "GLY",
+        "resnr": "224A",
+        "distance": 3.28,
+        "angle": 129.5
+      }
+    ],
+    "Salt": [
+      {
+        "res": "LYS",
+        "resnr": "218A",
+        "distance": 4.74
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 4.69
+      }
+    ],
+    "Hydrophobic": [
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 3.53
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.67
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.66
+      },
+      {
+        "res": "LEU",
+        "resnr": "168A",
+        "distance": 3.53
+      },
+      {
+        "res": "LEU",
+        "resnr": "168A",
+        "distance": 3.62
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.52
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.62
+      },
+      {
+        "res": "MET",
+        "resnr": "223A",
+        "distance": 3.42
+      }
+    ],
+    "Pi": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "offset": 1.28
+      }
+    ],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 19,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          2.788,
+          30.728,
+          -13.11
+        ],
+        "pc": "-0.271"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 2,
+        "num": 7,
+        "type": "Nam",
+        "coords": [
+          3.272,
+          32.633,
+          -15.793
+        ],
+        "pc": "-0.194"
+      }
+    ]
+  },
+  "12308714": {
+    "H_ldon": [],
+    "H_pdon": [
+      {
+        "res": "GLY",
+        "resnr": "258A",
+        "distance": 2.66,
+        "angle": 106.8
+      },
+      {
+        "res": "SER",
+        "resnr": "259A",
+        "distance": 2.35,
+        "angle": 130.7
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.11
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.89
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 1,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          -0.645,
+          33.195,
+          -7.128
+        ],
+        "pc": "-0.296"
+      },
+      {
+        "idx": 2,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          -1.4,
+          43.681,
+          -11.055
+        ],
+        "pc": "-0.291"
+      }
+    ],
+    "HBD": []
+  },
+  "12309055": {
+    "H_ldon": [
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 3.15,
+        "angle": 128.9
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 3.25,
+        "angle": 135.9
+      },
+      {
+        "res": "ASN",
+        "resnr": "262A",
+        "distance": 3.23,
+        "angle": 105.2
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 3.44,
+        "angle": 119.6
+      },
+      {
+        "res": "ASN",
+        "resnr": "262A",
+        "distance": 2.31,
+        "angle": 140.4
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.72
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.24
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.85
+      },
+      {
+        "res": "LEU",
+        "resnr": "168A",
+        "distance": 3.99
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.7
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.78
+      },
+      {
+        "res": "LEU",
+        "resnr": "168A",
+        "distance": 3.43
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.5
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -2.019,
+          34.687,
+          -6.114
+        ],
+        "pc": "-0.331"
+      },
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -3.179,
+          34.644,
+          -4.046
+        ],
+        "pc": "-0.326"
+      },
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -3.833,
+          30.75,
+          -5.254
+        ],
+        "pc": "-0.217"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -3.833,
+          30.75,
+          -5.254
+        ],
+        "pc": "-0.217"
+      }
+    ]
+  },
+  "124017": {
+    "H_ldon": [
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 2.47,
+        "angle": 131.5
+      },
+      {
+        "res": "SER",
+        "resnr": "128A",
+        "distance": 2.51,
+        "angle": 140.5
+      },
+      {
+        "res": "GLN",
+        "resnr": "134A",
+        "distance": 2.31,
+        "angle": 144.8
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.65,
+        "angle": 106.2
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.03,
+        "angle": 139.8
+      },
+      {
+        "res": "SER",
+        "resnr": "81A",
+        "distance": 2.53,
+        "angle": 130.8
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.67,
+        "angle": 104.9
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.09,
+        "angle": 150.3
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.3,
+        "angle": 142.8
+      },
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 2.23,
+        "angle": 174.5
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.63
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.75
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.7
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.81
+      },
+      {
+        "res": "PRO",
+        "resnr": "131A",
+        "distance": 3.25
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 1,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          8.667,
+          31.917,
+          -17.38
+        ],
+        "pc": "-0.472"
+      },
+      {
+        "idx": 21,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.696,
+          29.486,
+          -15.742
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.77,
+          35.444,
+          -8.882
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 39,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          12.884,
+          29.737,
+          -15.892
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 40,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          13.061,
+          30.281,
+          -13.171
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 41,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.016,
+          31.422,
+          -18.67
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 42,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          7.083,
+          33.786,
+          -21.425
+        ],
+        "pc": "-0.286"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 21,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.696,
+          29.486,
+          -15.742
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.77,
+          35.444,
+          -8.882
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 39,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          12.884,
+          29.737,
+          -15.892
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 40,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          13.061,
+          30.281,
+          -13.171
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 41,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.016,
+          31.422,
+          -18.67
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 42,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          7.083,
+          33.786,
+          -21.425
+        ],
+        "pc": "-0.286"
+      }
+    ]
+  },
+  "2703": {
+    "H_ldon": [],
+    "H_pdon": [
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.02,
+        "angle": 172.8
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.51,
+        "angle": 115.6
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.5
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 2,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          -2.132,
+          35.207,
+          -5.973
+        ],
+        "pc": "-0.435"
+      },
+      {
+        "idx": 23,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.784,
+          30.251,
+          -14.763
+        ],
+        "pc": "-0.468"
+      },
+      {
+        "idx": 25,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.101,
+          31.104,
+          -15.947
+        ],
+        "pc": "-0.468"
+      }
+    ],
+    "HBD": []
+  },
+  "442009": {
+    "H_ldon": [
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.16,
+        "angle": 178.2
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 3.12,
+        "angle": 127.3
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.11,
+        "angle": 128.3
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 3.01,
+        "angle": 136.3
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.23,
+        "angle": 164.7
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.75
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.7
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 2,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          -0.487,
+          36.966,
+          -9.74
+        ],
+        "pc": "-0.250"
+      }
+    ],
+    "HBD": []
+  },
+  "444170": {
+    "H_ldon": [
+      {
+        "res": "MET",
+        "resnr": "125A",
+        "distance": 2.57,
+        "angle": 108.3
+      },
+      {
+        "res": "LEU",
+        "resnr": "127A",
+        "distance": 2.72,
+        "angle": 103.5
+      },
+      {
+        "res": "SER",
+        "resnr": "128A",
+        "distance": 3.51,
+        "angle": 117.0
+      },
+      {
+        "res": "ASN",
+        "resnr": "262A",
+        "distance": 2.25,
+        "angle": 170.3
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 3.08,
+        "angle": 125.2
+      },
+      {
+        "res": "ASN",
+        "resnr": "262A",
+        "distance": 2.4,
+        "angle": 177.7
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.36,
+        "angle": 139.5
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 1.84,
+        "angle": 161.3
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.96,
+        "angle": 136.0
+      }
+    ],
+    "Salt": [
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 5.08
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 4.34
+      }
+    ],
+    "Hydrophobic": [],
+    "Pi": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "offset": 1.5
+      }
+    ],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 17,
+        "num": 7,
+        "type": "Nar",
+        "coords": [
+          -2.632,
+          31.484,
+          -4.459
+        ],
+        "pc": "-0.219"
+      },
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -5.269,
+          34.636,
+          -1.976
+        ],
+        "pc": "-0.216"
+      },
+      {
+        "idx": 28,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.025,
+          33.547,
+          -11.823
+        ],
+        "pc": "-0.345"
+      },
+      {
+        "idx": 33,
+        "num": 7,
+        "type": "Nar",
+        "coords": [
+          1.549,
+          34.324,
+          -9.86
+        ],
+        "pc": "-0.242"
+      },
+      {
+        "idx": 39,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          3.927,
+          34.839,
+          -7.722
+        ],
+        "pc": "-0.265"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -5.269,
+          34.636,
+          -1.976
+        ],
+        "pc": "-0.216"
+      }
+    ]
+  },
+  "5280343": {
+    "H_ldon": [
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.79,
+        "angle": 100.7
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "SER",
+        "resnr": "128A",
+        "distance": 3.12,
+        "angle": 164.0
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.07,
+        "angle": 146.7
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.2,
+        "angle": 170.0
+      },
+      {
+        "res": "MET",
+        "resnr": "223A",
+        "distance": 3.24,
+        "angle": 145.3
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.06,
+        "angle": 129.8
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 1.97,
+        "angle": 131.1
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.87
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.67
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 19,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.116,
+          31.109,
+          -16.35
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.259,
+          35.152,
+          -6.788
+        ],
+        "pc": "-0.286"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 19,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.116,
+          31.109,
+          -16.35
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.259,
+          35.152,
+          -6.788
+        ],
+        "pc": "-0.286"
+      }
+    ]
+  },
+  "5280794": {
+    "H_ldon": [],
+    "H_pdon": [],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.91
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.62
+      },
+      {
+        "res": "MET",
+        "resnr": "223A",
+        "distance": 3.67
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.45
+      },
+      {
+        "res": "LEU",
+        "resnr": "168A",
+        "distance": 3.59
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.43
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          8.608,
+          28.999,
+          -21.324
+        ],
+        "pc": "-0.223"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          8.608,
+          28.999,
+          -21.324
+        ],
+        "pc": "-0.223"
+      }
+    ]
+  },
+  "5280805": {
+    "H_ldon": [
+      {
+        "res": "ALA",
+        "resnr": "217A",
+        "distance": 2.27,
+        "angle": 154.0
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.56,
+        "angle": 132.4
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 3.32,
+        "angle": 139.1
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.97,
+        "angle": 151.0
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.37,
+        "angle": 155.0
+      },
+      {
+        "res": "SER",
+        "resnr": "128A",
+        "distance": 3.31,
+        "angle": 139.3
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.16,
+        "angle": 127.7
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.39,
+        "angle": 114.8
+      },
+      {
+        "res": "ASN",
+        "resnr": "262A",
+        "distance": 1.69,
+        "angle": 157.2
+      }
+    ],
+    "Salt": [
+      {
+        "res": "LYS",
+        "resnr": "218A",
+        "distance": 4.73
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 4.28
+      }
+    ],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.74
+      },
+      {
+        "res": "LYS",
+        "resnr": "218A",
+        "distance": 3.48
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.85
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.86
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.8
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 25,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.09,
+          40.377,
+          -10.748
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 26,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.765,
+          40.468,
+          -8.533
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 28,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.199,
+          31.68,
+          -14.589
+        ],
+        "pc": "-0.286"
+      },
+      {
+        "idx": 29,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.826,
+          37.662,
+          -8.14
+        ],
+        "pc": "-0.213"
+      },
+      {
+        "idx": 41,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -4.313,
+          31.826,
+          -2.602
+        ],
+        "pc": "-0.215"
+      },
+      {
+        "idx": 42,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -3.091,
+          36.959,
+          -5.573
+        ],
+        "pc": "-0.217"
+      },
+      {
+        "idx": 43,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.856,
+          34.599,
+          -4.45
+        ],
+        "pc": "-0.218"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 25,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.09,
+          40.377,
+          -10.748
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 26,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.765,
+          40.468,
+          -8.533
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 28,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.199,
+          31.68,
+          -14.589
+        ],
+        "pc": "-0.286"
+      },
+      {
+        "idx": 29,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.826,
+          37.662,
+          -8.14
+        ],
+        "pc": "-0.213"
+      },
+      {
+        "idx": 41,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -4.313,
+          31.826,
+          -2.602
+        ],
+        "pc": "-0.215"
+      },
+      {
+        "idx": 42,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -3.091,
+          36.959,
+          -5.573
+        ],
+        "pc": "-0.217"
+      },
+      {
+        "idx": 43,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.856,
+          34.599,
+          -4.45
+        ],
+        "pc": "-0.218"
+      }
+    ]
+  },
+  "5280863": {
+    "H_ldon": [
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.12,
+        "angle": 122.1
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "SER",
+        "resnr": "128A",
+        "distance": 3.16,
+        "angle": 163.6
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.04,
+        "angle": 147.7
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.18,
+        "angle": 171.2
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.07,
+        "angle": 129.6
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.02,
+        "angle": 131.5
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.91
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.6
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 18,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.141,
+          31.0,
+          -16.315
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 21,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.315,
+          35.099,
+          -6.765
+        ],
+        "pc": "-0.286"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 18,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.141,
+          31.0,
+          -16.315
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 21,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.315,
+          35.099,
+          -6.765
+        ],
+        "pc": "-0.286"
+      }
+    ]
+  },
+  "5281672": {
+    "H_ldon": [
+      {
+        "res": "SER",
+        "resnr": "81A",
+        "distance": 2.41,
+        "angle": 125.6
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 2.83,
+        "angle": 171.6
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.55,
+        "angle": 101.0
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.3,
+        "angle": 172.6
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.02,
+        "angle": 141.5
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.34,
+        "angle": 130.5
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.07,
+        "angle": 121.1
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.0,
+        "angle": 151.0
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.76
+      }
+    ],
+    "Pi": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "offset": 1.48
+      }
+    ],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 19,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.916,
+          31.349,
+          -16.086
+        ],
+        "pc": "-0.280"
+      },
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.33,
+          29.28,
+          -15.152
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 23,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.175,
+          34.643,
+          -6.541
+        ],
+        "pc": "-0.286"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 19,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.916,
+          31.349,
+          -16.086
+        ],
+        "pc": "-0.280"
+      },
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.33,
+          29.28,
+          -15.152
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 23,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.175,
+          34.643,
+          -6.541
+        ],
+        "pc": "-0.286"
+      }
+    ]
+  },
+  "5316673": {
+    "H_ldon": [
+      {
+        "res": "SER",
+        "resnr": "81A",
+        "distance": 2.1,
+        "angle": 140.0
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 3.12,
+        "angle": 163.8
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.73,
+        "angle": 161.2
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.9,
+        "angle": 156.5
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.11,
+        "angle": 127.0
+      }
+    ],
+    "Salt": [
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 4.44
+      }
+    ],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.8
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.69
+      }
+    ],
+    "Pi": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "offset": 0.7
+      }
+    ],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.165,
+          36.28,
+          -4.851
+        ],
+        "pc": "-0.218"
+      },
+      {
+        "idx": 21,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.913,
+          34.369,
+          -5.264
+        ],
+        "pc": "-0.217"
+      },
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -0.55,
+          32.363,
+          -6.52
+        ],
+        "pc": "-0.213"
+      },
+      {
+        "idx": 29,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.233,
+          39.036,
+          -7.128
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 31,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.099,
+          31.554,
+          -14.87
+        ],
+        "pc": "-0.286"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 20,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -1.165,
+          36.28,
+          -4.851
+        ],
+        "pc": "-0.218"
+      },
+      {
+        "idx": 21,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.913,
+          34.369,
+          -5.264
+        ],
+        "pc": "-0.217"
+      },
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          -0.55,
+          32.363,
+          -6.52
+        ],
+        "pc": "-0.213"
+      },
+      {
+        "idx": 29,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.233,
+          39.036,
+          -7.128
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 31,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.099,
+          31.554,
+          -14.87
+        ],
+        "pc": "-0.286"
+      }
+    ]
+  },
+  "72936": {
+    "H_ldon": [],
+    "H_pdon": [
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.44,
+        "angle": 138.0
+      },
+      {
+        "res": "ARG",
+        "resnr": "261A",
+        "distance": 2.1,
+        "angle": 152.3
+      },
+      {
+        "res": "SER",
+        "resnr": "81A",
+        "distance": 2.1,
+        "angle": 119.2
+      },
+      {
+        "res": "LYS",
+        "resnr": "84A",
+        "distance": 3.4,
+        "angle": 126.1
+      },
+      {
+        "res": "SER",
+        "resnr": "219A",
+        "distance": 2.02,
+        "angle": 157.1
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.9
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.56
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.77
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.69
+      }
+    ],
+    "Pi": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "offset": 1.3
+      }
+    ],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 1,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          1.082,
+          33.896,
+          -10.174
+        ],
+        "pc": "-0.474"
+      },
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.657,
+          35.932,
+          -5.896
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.038,
+          32.306,
+          -15.459
+        ],
+        "pc": "-0.286"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 22,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          0.657,
+          35.932,
+          -5.896
+        ],
+        "pc": "-0.287"
+      },
+      {
+        "idx": 30,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          4.038,
+          32.306,
+          -15.459
+        ],
+        "pc": "-0.286"
+      }
+    ]
+  },
+  "73170": {
+    "H_ldon": [],
+    "H_pdon": [],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.6
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.83
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.16
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 3.21
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 31,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.659,
+          31.581,
+          -15.869
+        ],
+        "pc": "-0.223"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 31,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          3.659,
+          31.581,
+          -15.869
+        ],
+        "pc": "-0.223"
+      }
+    ]
+  },
+  "73568": {
+    "H_ldon": [
+      {
+        "res": "SER",
+        "resnr": "81A",
+        "distance": 2.29,
+        "angle": 145.4
+      },
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 3.41,
+        "angle": 117.4
+      },
+      {
+        "res": "SER",
+        "resnr": "128A",
+        "distance": 3.02,
+        "angle": 113.2
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 2.69,
+        "angle": 109.5
+      },
+      {
+        "res": "TRP",
+        "resnr": "221A",
+        "distance": 2.07,
+        "angle": 126.0
+      }
+    ],
+    "H_pdon": [
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 2.99,
+        "angle": 128.9
+      },
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 3.06,
+        "angle": 143.2
+      },
+      {
+        "res": "TYR",
+        "resnr": "112A",
+        "distance": 3.2,
+        "angle": 123.9
+      },
+      {
+        "res": "SER",
+        "resnr": "81A",
+        "distance": 3.12,
+        "angle": 109.9
+      },
+      {
+        "res": "MET",
+        "resnr": "223A",
+        "distance": 2.2,
+        "angle": 166.6
+      },
+      {
+        "res": "GLN",
+        "resnr": "134A",
+        "distance": 3.19,
+        "angle": 100.3
+      },
+      {
+        "res": "LYS",
+        "resnr": "108A",
+        "distance": 2.94,
+        "angle": 106.7
+      }
+    ],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.34
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 1,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          6.325,
+          30.376,
+          -15.532
+        ],
+        "pc": "-0.314"
+      },
+      {
+        "idx": 4,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          11.0,
+          31.426,
+          -17.838
+        ],
+        "pc": "-0.245"
+      },
+      {
+        "idx": 5,
+        "num": 8,
+        "type": "O2",
+        "coords": [
+          10.302,
+          32.603,
+          -13.276
+        ],
+        "pc": "-0.245"
+      },
+      {
+        "idx": 38,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          6.066,
+          30.484,
+          -18.512
+        ],
+        "pc": "-0.212"
+      },
+      {
+        "idx": 41,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          10.096,
+          37.071,
+          -16.886
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 42,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          14.487,
+          32.732,
+          -16.667
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 43,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          14.5,
+          28.718,
+          -14.088
+        ],
+        "pc": "-0.283"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 38,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          6.066,
+          30.484,
+          -18.512
+        ],
+        "pc": "-0.212"
+      },
+      {
+        "idx": 41,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          10.096,
+          37.071,
+          -16.886
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 42,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          14.487,
+          32.732,
+          -16.667
+        ],
+        "pc": "-0.283"
+      },
+      {
+        "idx": 43,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          14.5,
+          28.718,
+          -14.088
+        ],
+        "pc": "-0.283"
+      }
+    ]
+  },
+  "92097": {
+    "H_ldon": [],
+    "H_pdon": [],
+    "Salt": [],
+    "Hydrophobic": [
+      {
+        "res": "THR",
+        "resnr": "111A",
+        "distance": 3.95
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.5
+      },
+      {
+        "res": "TRP",
+        "resnr": "115A",
+        "distance": 3.71
+      },
+      {
+        "res": "ASP",
+        "resnr": "130A",
+        "distance": 3.84
+      },
+      {
+        "res": "PRO",
+        "resnr": "131A",
+        "distance": 3.57
+      },
+      {
+        "res": "PRO",
+        "resnr": "131A",
+        "distance": 3.28
+      },
+      {
+        "res": "LEU",
+        "resnr": "168A",
+        "distance": 3.76
+      }
+    ],
+    "Pi": [],
+    "Pication": [],
+    "Metal": [],
+    "Water": [],
+    "Halogen": [],
+    "HBA": [
+      {
+        "idx": 31,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          15.352,
+          26.522,
+          -14.731
+        ],
+        "pc": "-0.223"
+      }
+    ],
+    "HBD": [
+      {
+        "idx": 31,
+        "num": 8,
+        "type": "O3",
+        "coords": [
+          15.352,
+          26.522,
+          -14.731
+        ],
+        "pc": "-0.223"
+      }
+    ]
+  }
+}
